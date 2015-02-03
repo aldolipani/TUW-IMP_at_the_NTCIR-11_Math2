@@ -9,7 +9,7 @@ How to use the system
 ---------------------
 
 To run the commands explained below it is needed the jar file downloadable from the folder 
-[out/artifacts/tuw_imp_at_the_ntcir-11_math2](https://github.com/aldolipani/TUW-IMP_at_the_NTCIR-11_Math2/tree/master/out/artifacts/tuw_imp_at_the_ntcir-11_math2).
+[out/artifacts/tuw_imp_at_the_ntcir_11_math2_jar](https://github.com/aldolipani/TUW-IMP_at_the_NTCIR-11_Math2/tree/master/out/artifacts/tuw_imp_at_the_ntcir_11_math2_jar).
 Each command, described below, needs to be preceded by the following command: `java -jar tuw-imp_at_the_ntcir-11_math2.jar`
 
 Help
@@ -34,7 +34,7 @@ If the text index is omitted the system will search only over the formulae index
 keywords in the topics to be searched, it is possible to apply a topic expansion to each of them through an XML file passed 
 through the parameter `--expansions`.
 The expansions used for the challenge NTCIR-11 Math2 are provided in
-[input/NTCIR11-Math2-Query_Expansions](https://github.com/aldolipani/TUW-IMP_at_the_NTCIR-11_Math2/tree/master/out/input/NTCIR11-Math2-Query_Expansions.xml).
+[input/NTCIR11-Math2-Query_Expansions.xml](https://github.com/aldolipani/TUW-IMP_at_the_NTCIR-11_Math2/blob/master/input/NTCIR11-Math2-Query_Expansions.xml).
 
 At the moment, the only settings about the parameters of the system are the ones used in the challenge that can be set up 
 throng the name of the run. The characteristic of each run are described in the 
