@@ -34,7 +34,7 @@ If the text index is omitted the system will search only over the formulae index
 keywords in the topics to be searched, it is possible to apply a topic expansion to each of them through an XML file passed 
 through the parameter `--expansions`.
 The expansions used for the challenge NTCIR-11 Math2 are provided in
-[input/NTCIR11-Math2-Query_Expansions.xml](https://github.com/aldolipani/TUW-IMP_at_the_NTCIR-11_Math2/blob/master/input/NTCIR11-Math2-Query_Expansions.xml).
+[input/NTCIR11-Math2-Query_Expansions.xml](https://github.com/aldolipani/TUW-IMP_at_the_NTCIR-11_Math2/tree/master/input).
 
 At the moment, the only settings about the parameters of the system are the ones used in the challenge that can be set up 
 throng the name of the run. The characteristic of each run are described in the 
