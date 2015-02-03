@@ -1,0 +1,2496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic_expansions>
+    <topic>
+        <num>NTCIR11-Math-1</num>
+        <keywords>hyperelliptic, surface, riemann</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>riemann</keyterm>
+                <synonym source="0812.4394_1_3">minkowski, riemann-cartan spacetimes</synonym>
+                <hypernym source="0812.4394_1_3">various spacetime geometries</hypernym>
+                <synonym source="1002.3464_1_87">lowest order ricci, higher order geometric flows</synonym>
+                <hypernym source="1002.3464_1_87">geometric quantities</hypernym>
+                <synonym source="gr-qc0401008_1_3">weyl tensors</synonym>
+                <hypernym source="gr-qc0401008_1_3">higher dimensional lorentian manifolds</hypernym>
+                <hypernym source="gr-qc0612072_1_5">tensors</hypernym>
+                <synonym source="hep-th0503142_1_4">hurwitz zeta functions, proved new series</synonym>
+                <hypernym source="hep-th0503142_1_4">mathematical series</hypernym>
+                <synonym source="math0702077_1_2">christoffel symbols</synonym>
+                <hypernym source="math0702077_1_2">metric</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-2</num>
+        <keywords>lisboa, cauchy</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>cauchy</keyterm>
+                <synonym source="0902.2750_1_149">neumann, dirichlet even non homogeneous, robin, other initial-boundary
+                    problem
+                </synonym>
+                <hypernym source="0902.2750_1_149">other problem</hypernym>
+                <synonym source="0911.1176_1_20">symmetric stable distributions, laplace, double exponential, student
+                    distributions, their mixtures
+                </synonym>
+                <hypernym source="0911.1176_1_20">many commonly used distributions</hypernym>
+                <synonym source="1003.0935_1_2">dirac distributions</synonym>
+                <hypernym source="1003.0935_1_2">very rare exceptions</hypernym>
+                <synonym source="1312.6843_1_289">gaussian distribution</synonym>
+                <hypernym source="1312.6843_1_289">many natural distributions</hypernym>
+                <synonym source="math-ph0211011_1_2">hardy, littlewood, ramanujan</synonym>
+                <hypernym source="math-ph0211011_1_2">great mathematicians</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-3</num>
+        <keywords>geodesic, interval, symmetric</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>symmetric</keyterm>
+                <synonym source="1302.3645_1_2">method</synonym>
+                <hypernym source="1302.3645_1_2">other tensor matters</hypernym>
+                <synonym source="hep-th0107081_1_34">position</synonym>
+                <hypernym source="hep-th0107081_1_34">tachyons scalars</hypernym>
+                <synonym source="hep-th0107081_1_33">position</synonym>
+                <hypernym source="hep-th0107081_1_33">scalars</hypernym>
+                <synonym source="hep-th0107081_1_32">position</synonym>
+                <hypernym source="hep-th0107081_1_32">scalars</hypernym>
+                <synonym source="hep-th0107081_1_32">position</synonym>
+                <hypernym source="hep-th0107081_1_32">tachyons scalars</hypernym>
+                <synonym source="hep-th0107081_1_32">position</synonym>
+                <hypernym source="hep-th0107081_1_32">scalars</hypernym>
+                <synonym source="hep-th0107081_1_32">position</synonym>
+                <hypernym source="hep-th0107081_1_32">tachyon scalars</hypernym>
+                <synonym source="hep-th0107081_1_36">position</synonym>
+                <hypernym source="hep-th0107081_1_36">tachyon scalars</hypernym>
+                <synonym source="hep-th0107081_1_35">position</synonym>
+                <hypernym source="hep-th0107081_1_35">scalars</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-4</num>
+        <keywords>invariance, point, interaction</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>interaction</keyterm>
+                <hyponym source="0706.0653_1_2">gauge theory</hyponym>
+                <synonym source="0707.4052_1_15">pressureless dark matter</synonym>
+                <hypernym source="0707.4052_1_15">agegraphic dark energy model</hypernym>
+                <hypernym source="0707.4052_1_7">original agegraphic dark energy model</hypernym>
+                <synonym source="0812.4624_1_8">vector bosons and fermions</synonym>
+                <hypernym source="0812.4624_1_8">matter sector</hypernym>
+                <synonym source="1003.2556_1_90">tolerance</synonym>
+                <hypernym source="1003.2556_1_90">several indexes</hypernym>
+                <synonym source="1201.5984_1_28">surface chemistry, rigid obstacles, heterogeneity</synonym>
+                <hypernym source="1201.5984_1_28">tremendously important factors</hypernym>
+                <synonym source="1205.0746_1_10">gaussian</synonym>
+                <hypernym source="1205.0746_1_10">model potentials</hypernym>
+                <synonym source="1401.0053_1_84">partial orderings</synonym>
+                <hypernym source="1401.0053_1_84">abstract algebra</hypernym>
+                <synonym source="astro-ph0010475_1_196">dissipative effects, magnetic fields, etc.</synonym>
+                <hypernym source="astro-ph0010475_1_196">gravitation</hypernym>
+                <hyponym source="gr-qc0405008_1_175">newly added matter layer, interior matter</hyponym>
+                <hyponym source="hep-ph0512225_1_3">hard one, it, review and references</hyponym>
+                <hypernym source="hep-th0104123_1_1">larger system</hypernym>
+                <synonym source="hep-th0307188_1_9">its thermodynamics</synonym>
+                <hypernym source="hep-th0307188_1_9">its various properties</hypernym>
+                <synonym source="hep-th0309072_1_20">changes</synonym>
+                <hypernym source="hep-th0309072_1_20">they should be overcome</hypernym>
+                <hyponym source="hep-th0408062_1_9">gauge coupling</hyponym>
+                <hypernym source="hep-th0412033_1_2">curvature tensor</hypernym>
+                <synonym source="hep-th0412132_1_9">separation, all details</synonym>
+                <hypernym source="hep-th0412132_1_9">aÃ few collective variables</hypernym>
+                <hyponym source="math0304419_1_6">non-intersection condition</hyponym>
+                <hypernym source="math-ph0309034_1_27">dynamics</hypernym>
+                <hypernym source="nlin0404059_1_4">external mechanical forces</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>point</keyterm>
+                <synonym source="0810.4756_1_3">total variation, kolmogorov, wasserstein, kullback-leibler</synonym>
+                <hypernym source="0810.4756_1_3">several distances studied before</hypernym>
+                <synonym source="0812.3207_1_63">line, plane, others, tables, chairs, glasses, etc.</synonym>
+                <hypernym source="0812.3207_1_63">elementary notions</hypernym>
+                <synonym source="0903.2258_1_15">violation</synonym>
+                <hypernym source="0903.2258_1_15">catastrophic consequences</hypernym>
+                <hypernym source="0904.3989_1_43">wider class</hypernym>
+                <synonym source="0905.1680_1_40">local nets, e.g., systems, minor indirection</synonym>
+                <hypernym source="0905.1680_1_40">i am aware</hypernym>
+                <hyponym source="1003.4856_1_3">result</hyponym>
+                <hypernym source="1201.1214_1_184">pair</hypernym>
+                <hyponym source="1207.5578_1_125">block</hyponym>
+                <hypernym source="1209.0499_1_66">test points</hypernym>
+                <synonym source="1212.6617_1_100">then we</synonym>
+                <synonym source="1212.6617_1_100">then we</synonym>
+                <hypernym source="1304.5540_1_21">boundary</hypernym>
+                <synonym source="1309.0282_1_1">their masses, charges</synonym>
+                <hypernym source="1309.0282_1_1">nonsingular objects</hypernym>
+                <synonym source="hep-th0612195_1_5">baryon, galaxy</synonym>
+                <hypernym source="hep-th0612195_1_5">Ã¢ $ conditionalization objectÃ¢ $</hypernym>
+                <hypernym source="math0405042_1_72">objects</hypernym>
+                <synonym source="math0601755_1_7">interval and triangle, special cases</synonym>
+                <hypernym source="math0601755_1_7">next graphs</hypernym>
+                <synonym source="math-ph0504074_1_37">energy density</synonym>
+                <hypernym source="math-ph0504074_1_37">so thermal properties</hypernym>
+                <hypernym source="physics0206063_1_7">physical quantities</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>invariance</keyterm>
+                <synonym source="0911.5089_1_114">special geometry relations, modular invariance, integrable
+                    properties
+                </synonym>
+                <hypernym source="0911.5089_1_114">many interesting properties</hypernym>
+                <hypernym source="1306.4461_1_89">local universe</hypernym>
+                <synonym source="1308.3018_1_3">momentum</synonym>
+                <hypernym source="1308.3018_1_3">known cases</hypernym>
+                <hypernym source="1401.4265_1_2">its structural properties</hypernym>
+                <synonym source="hep-th0101005_1_15">propagating degrees</synonym>
+                <hypernym source="hep-th0101005_1_15">certain properties</hypernym>
+                <synonym source="hep-th0202170_1_5">propagating degrees</synonym>
+                <hypernym source="hep-th0202170_1_5">certain properties</hypernym>
+                <synonym source="hep-th0207254_1_25">principle</synonym>
+                <hypernym source="hep-th0207254_1_25">relativity</hypernym>
+                <synonym source="hep-th0304068_1_4">propagating degrees</synonym>
+                <synonym source="hep-th0304204_1_14">propagating degrees</synonym>
+                <hypernym source="hep-th0304204_1_14">certain properties</hypernym>
+                <synonym source="hep-th0504163_1_4">propagating degrees</synonym>
+                <hypernym source="hep-th0504163_1_4">certain properties</hypernym>
+                <synonym source="hep-th0603143_1_1">propagating degrees</synonym>
+                <hypernym source="hep-th0603143_1_1">certain properties</hypernym>
+                <synonym source="math0411423_1_7">translation invariance</synonym>
+                <hypernym source="math0411423_1_7">general structural conditions</hypernym>
+                <synonym source="math0701640_1_118">its outer measure properties, multidimensional case and
+                    homogeneity
+                </synonym>
+                <hypernym source="math0701640_1_118">nonstandard case</hypernym>
+                <hypernym source="math-ph0204023_1_7">$ ''</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-5</num>
+        <keywords>entropy, bound, bekenstein-hawking</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>entropy</keyterm>
+                <synonym source="0712.2822_1_84">tension</synonym>
+                <hypernym source="0712.2822_1_84">other thermodynamic quantities</hypernym>
+                <synonym source="0811.3332_1_32">energy, particle number, pressure, specific heat</synonym>
+                <hypernym source="0811.3332_1_32">thermodynamical quantities</hypernym>
+                <synonym source="0901.3600_1_1">periodic point data or spectrum</synonym>
+                <hypernym source="0901.3600_1_1">simple parameter</hypernym>
+                <hypernym source="0903.2020_1_2">important functions</hypernym>
+                <synonym source="0905.0751_1_5">definition</synonym>
+                <hypernym source="0905.0751_1_5">their thermodynamic properties</hypernym>
+                <synonym source="0907.0227_1_1">information paradox</synonym>
+                <hypernym source="0907.0227_1_1">quantum gravity</hypernym>
+                <synonym source="0909.4668_1_44">variety, role and nature</synonym>
+                <hypernym source="0909.4668_1_44">thermodynamic variables</hypernym>
+                <synonym source="0910.1304_1_3">index theory and subfactors, classical dynamical systems</synonym>
+                <hypernym source="0910.1304_1_3">contexts</hypernym>
+                <hypernym source="0910.4633_1_5">thermodynamic quantities</hypernym>
+                <hypernym source="0911.0270_1_3">extensive quantities</hypernym>
+                <hypernym source="1001.0785_1_103">bekenstein-hawking formula</hypernym>
+                <synonym source="1110.6152_1_12">conjugate generalized force</synonym>
+                <hypernym source="1110.6152_1_12">system</hypernym>
+                <synonym source="1111.1023_1_2">free energy, specific heat</synonym>
+                <hypernym source="1111.1023_1_2">basic quantities</hypernym>
+                <synonym source="1111.1725_1_11">horizon area</synonym>
+                <hypernym source="1111.1725_1_11">bound</hypernym>
+                <synonym source="1111.5068_1_27">free energy</synonym>
+                <hypernym source="1111.5068_1_27">them</hypernym>
+                <hypernym source="1206.3190_1_4">black-hole properties</hypernym>
+                <synonym source="1206.4941_1_44">72, mechanical action</synonym>
+                <hypernym source="1206.4941_1_44">complexified action</hypernym>
+                <synonym source="1208.0106_1_2">temperature</synonym>
+                <hypernym source="1208.0106_1_2">quantities</hypernym>
+                <synonym source="1209.3304_1_1">classical geometry, peculiar spectrum</synonym>
+                <synonym source="1211.6911_1_6">existence</synonym>
+                <hypernym source="1211.6911_1_6">thermodynamic equilibrium</hypernym>
+                <synonym source="1301.4628_1_9">linex, stein loss functions</synonym>
+                <hypernym source="1301.4628_1_9">different loss functions</hypernym>
+                <synonym source="1302.0816_1_5">energy, dual theory</synonym>
+                <hypernym source="1302.0816_1_5">quantities</hypernym>
+                <synonym source="1302.5474_1_8">individuals, niching 19, 20</synonym>
+                <hypernym source="1302.5474_1_8">population diversity</hypernym>
+                <synonym source="1302.5474_1_5">individuals, niching 19, 20</synonym>
+                <hypernym source="1302.5474_1_5">population diversity</hypernym>
+                <synonym source="1304.4358_1_1">horizon, flatness, monopole problems, causal explanation</synonym>
+                <hypernym source="1304.4358_1_1">long-standing cosmological puzzles</hypernym>
+                <synonym source="1305.0308_1_21">particle number density, magnetization, energy density, pressures
+                </synonym>
+                <hypernym source="1305.0308_1_21">thermodynamical magnitudes</hypernym>
+                <synonym source="1305.4544_1_15">gradient magnitude, visual saliency, eye-gaze movement</synonym>
+                <hypernym source="1305.4544_1_15">energy functions</hypernym>
+                <synonym source="1307.3077_1_3">temperature, their relations</synonym>
+                <hypernym source="1307.3077_1_3">their properties</hypernym>
+                <synonym source="1308.2386_1_3">energy</synonym>
+                <hypernym source="1308.2386_1_3">its macroscopic thermodynamic properties</hypernym>
+                <synonym source="1309.2747_1_10">total energy, free energy, pressure, terms</synonym>
+                <hypernym source="1309.2747_1_10">system</hypernym>
+                <synonym source="1310.2045_1_1">fisher information, relative entropy</synonym>
+                <hypernym source="1310.2045_1_1">theoretic quantities</hypernym>
+                <synonym source="astro-ph0206287_1_14">black holes</synonym>
+                <hypernym source="astro-ph0206287_1_14">debris</hypernym>
+                <synonym source="astro-ph0206287_1_82">black holes</synonym>
+                <hypernym source="astro-ph0206287_1_82">debris</hypernym>
+                <synonym source="cond-mat0308331_1_197">energy</synonym>
+                <hypernym source="cond-mat0308331_1_197">characteristics</hypernym>
+                <synonym source="cond-mat0702070_1_11">energy, heat capacity, etc., factorized form</synonym>
+                <hypernym source="cond-mat0702070_1_11">thermodynamic quantity</hypernym>
+                <synonym source="gr-qc0101052_1_11">15 and references</synonym>
+                <hypernym source="gr-qc0101052_1_11">btz black holes</hypernym>
+                <synonym source="gr-qc0106001_1_6">black holes</synonym>
+                <hypernym source="gr-qc0106001_1_6">we know</hypernym>
+                <synonym source="gr-qc0206039_1_2">its degrees, evaporation</synonym>
+                <hypernym source="gr-qc0206039_1_2">important issues</hypernym>
+                <synonym source="gr-qc0310090_1_1">temperature</synonym>
+                <hypernym source="gr-qc0310090_1_1">thermal properties</hypernym>
+                <synonym source="gr-qc0401110_1_7">area fluctuations etc</synonym>
+                <hypernym source="gr-qc0401110_1_7">statistical calculations</hypernym>
+                <synonym source="gr-qc0405010_1_54">mean energy</synonym>
+                <hypernym source="gr-qc0405010_1_54">individual particles</hypernym>
+                <synonym source="gr-qc0405010_1_451">energy and number-density, pressure etc.</synonym>
+                <hypernym source="gr-qc0405010_1_451">relevant thermodynamic parameters</hypernym>
+                <synonym source="gr-qc9301018_1_16">heat capacity</synonym>
+                <hypernym source="gr-qc9301018_1_16">thermodynamical quantities</hypernym>
+                <synonym source="hep-ph0409123_1_4">pressure</synonym>
+                <hypernym source="hep-ph0409123_1_4">thermodynamic quantities</hypernym>
+                <hypernym source="hep-th0012020_1_47">thermodynamic properties</hypernym>
+                <synonym source="hep-th0112055_1_3">temperature</synonym>
+                <hypernym source="hep-th0112055_1_3">various thermodynamical quantities</hypernym>
+                <synonym source="hep-th0202140_1_30">we</synonym>
+                <hypernym source="hep-th0202140_1_30">black holes</hypernym>
+                <synonym source="hep-th0205317_1_10">hagedorn temperature</synonym>
+                <hypernym source="hep-th0205317_1_10">thermodynamic quantities</hypernym>
+                <synonym source="hep-th0207200_1_12">information</synonym>
+                <synonym source="hep-th0211191_1_17">temperature, angular velocity, electric charge and potential
+                </synonym>
+                <hypernym source="hep-th0211191_1_17">brane</hypernym>
+                <synonym source="hep-th0302052_1_1">3</synonym>
+                <hypernym source="hep-th0302052_1_1">macroscopic quantities</hypernym>
+                <synonym source="hep-th0302132_1_64">free energy</synonym>
+                <hypernym source="hep-th0302132_1_64">interesting features</hypernym>
+                <hypernym source="hep-th0302132_1_5">new interesting features</hypernym>
+                <synonym source="hep-th0303110_1_2">black holes</synonym>
+                <hypernym source="hep-th0303110_1_2">debris</hypernym>
+                <synonym source="hep-th0306031_1_37">ds</synonym>
+                <hypernym source="hep-th0306031_1_37">thermodynamical quantities</hypernym>
+                <synonym source="hep-th0306131_1_37">mass, temperature</synonym>
+                <hypernym source="hep-th0306131_1_37">quantities</hypernym>
+                <synonym source="hep-th0310177_1_1">ads correspondence</synonym>
+                <hypernym source="hep-th0310177_1_1">various supersymmetric nonsupersymmetric field theories</hypernym>
+                <synonym source="hep-th0501055_1_3">schwarzschild-de sitter space, there</synonym>
+                <hypernym source="hep-th0501055_1_3">asymptotic de sitter space</hypernym>
+                <hypernym source="hep-th0508100_1_39">thermodynamical quantities</hypernym>
+                <synonym source="hep-th0511225_1_26">energy, angular momentum, more general thermal nature</synonym>
+                <hypernym source="hep-th0511225_1_26">full correspondence</hypernym>
+                <synonym source="hep-th0603136_1_54">information, and entanglement</synonym>
+                <hypernym source="hep-th0603136_1_54">fields</hypernym>
+                <synonym source="hep-th0605042_1_3">temperature, angular momentum, angular velocity</synonym>
+                <hypernym source="hep-th0605042_1_3">physical quantities</hypernym>
+                <synonym source="hep-th0605052_1_71">temperature</synonym>
+                <hypernym source="hep-th0605052_1_71">gravitational physics right</hypernym>
+                <hypernym source="hep-th0702108_1_130">thermodynamic quantities</hypernym>
+                <synonym source="hep-th0702225_1_46">energy, free energy density</synonym>
+                <hypernym source="hep-th0702225_1_46">thermodynamic quantities</hypernym>
+                <synonym source="hep-th0703046_1_46">its mass, temperature, charge, electric potential</synonym>
+                <hypernym source="hep-th0703046_1_46">electrically charged black string</hypernym>
+                <synonym source="math0109156_1_1">and it</synonym>
+                <hypernym source="math0109156_1_1">questions</hypernym>
+                <hypernym source="math0407417_1_34">rough dynamical invariants</hypernym>
+                <hypernym source="math0407417_1_36">rough dynamical invariants</hypernym>
+                <synonym source="nlin0504059_1_85">ergodicity, thermodynamic limits, liapounov exponent</synonym>
+                <hypernym source="nlin0504059_1_85">physical concepts</hypernym>
+                <synonym source="q-bio0510007_1_59">mutual information</synonym>
+                <hypernym source="q-bio0510007_1_59">information-theoretic measures</hypernym>
+                <synonym source="quant-ph0412189_1_2">partition function, pressure, internal energy, virial expansion,
+                    specific heat
+                </synonym>
+                <hypernym source="quant-ph0412189_1_2">particles</hypernym>
+                <synonym source="quant-ph0412189_1_5">pressure, internal energy, such systems</synonym>
+                <hypernym source="quant-ph0412189_1_5">thermodynamic functions</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>bound</keyterm>
+                <hyponym source="1109.5287_1_94">4.5</hyponym>
+                <hyponym source="1111.1725_1_11">horizon area</hyponym>
+                <hypernym source="1206.2574_1_151">results</hypernym>
+                <hypernym source="1309.4771_1_13">improvement</hypernym>
+                <hyponym source="hep-th0310223_1_5">cosmology, valid, value</hyponym>
+                <hyponym source="math0311531_1_70">above, path</hyponym>
+                <hyponym source="math0403006_1_26">to various other values</hyponym>
+                <hypernym source="math0405142_1_6">other constraints</hypernym>
+                <synonym source="math0409066_1_136">quasi-canonical fibres</synonym>
+                <hypernym source="math0409066_1_136">integral special point thereby</hypernym>
+                <hyponym source="math0412464_1_27">5</hyponym>
+                <synonym source="math0507502_1_7">possible poles</synonym>
+                <hypernym source="math0507502_1_7">partial information</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-6</num>
+        <keywords>brane, action, cosmological</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>brane</keyterm>
+                <synonym source="0812.2889_1_35">anti-brane</synonym>
+                <hypernym source="0812.2889_1_35">system</hypernym>
+                <hyponym source="0901.1067_1_37">32</hyponym>
+                <synonym source="0904.0067_1_11">dust and radiation</synonym>
+                <hypernym source="0904.0067_1_11">ordinary matter</hypernym>
+                <synonym source="0908.1019_1_4">string</synonym>
+                <hypernym source="0908.1019_1_4">extended object</hypernym>
+                <synonym source="0909.3013_1_56">dust and radiation</synonym>
+                <hypernym source="0909.3013_1_56">ordinary matter</hypernym>
+                <hypernym source="1108.5436_1_1">corresponding researches</hypernym>
+                <synonym source="1311.0266_1_13">bulk contributions</synonym>
+                <hypernym source="1311.0266_1_13">stress tensor</hypernym>
+                <hyponym source="1311.3834_1_35">world-volume gauge field, scalars, fermions</hyponym>
+                <hyponym source="1311.3911_1_29">would happen standard model</hyponym>
+                <hyponym source="gr-qc0304089_1_30">boltzmann equation, scalarÃ 23 and tensorÃ</hyponym>
+                <synonym source="gr-qc0401069_1_7">weyl term, weyl curvature</synonym>
+                <hypernym source="gr-qc0401069_1_7">brane has been analyzed also</hypernym>
+                <synonym source="gr-qc0603045_1_9">gravitons, our three-surface</synonym>
+                <hypernym source="gr-qc0603045_1_9">hypothetical sm singlet fields</hypernym>
+                <synonym source="hep-ph0308051_1_11">electrons, new ones</synonym>
+                <hypernym source="hep-ph0308051_1_11">standard model particles</hypernym>
+                <synonym source="hep-ph0310258_1_11">bulk inflaton</synonym>
+                <hypernym source="hep-ph0310258_1_11">our scenario</hypernym>
+                <hyponym source="hep-ph0601222_1_6">possible dimensionful couplings, fluctuating fields</hyponym>
+                <hypernym source="hep-th0012132_1_4">unperturbed configuration</hypernym>
+                <synonym source="hep-th0104126_1_9">boundary conditions, i.e.</synonym>
+                <hypernym source="hep-th0104126_1_9">branes</hypernym>
+                <synonym source="hep-th0104126_1_7">boundary conditions, i.e.</synonym>
+                <hypernym source="hep-th0104126_1_7">branes</hypernym>
+                <hypernym source="hep-th0104131_1_56">particles</hypernym>
+                <synonym source="hep-th0109114_1_14">contribution</synonym>
+                <hypernym source="hep-th0109114_1_14">anholonomic variables</hypernym>
+                <hyponym source="hep-th0608208_1_39">stars</hyponym>
+                <hyponym source="hep-th0408105_1_80">supernovae or collider experiments, emission</hyponym>
+                <hyponym source="hep-th0410186_1_158">free kalb-ramond sector plus matter, u</hyponym>
+                <hyponym source="hep-th0201040_1_3">how fast it</hyponym>
+                <hypernym source="hep-th0207203_1_51">particles</hypernym>
+                <hyponym source="hep-th0211191_1_17">temperature, angular velocity, electric charge and potential
+                </hyponym>
+                <synonym source="hep-th0212102_1_9">manifest bulk gauge symmetry</synonym>
+                <hypernym source="hep-th0212102_1_9">case</hypernym>
+                <hyponym source="hep-th0309065_1_30">excitations, properties</hyponym>
+                <synonym source="hep-th0309190_1_12">approach, time-symmetric initial data study</synonym>
+                <hypernym source="hep-th0309190_1_12">4</hypernym>
+                <synonym source="hep-th0402228_1_15">interactions, Ã¢ $ projectionsÃ¢ $, gravity and gauge fields
+                </synonym>
+                <hypernym source="hep-th0402228_1_15">Ã¢ $ braneÃ¢ $ part</hypernym>
+                <synonym source="hep-th0402228_1_15">interactions, Ã¢ $ projectionsÃ¢ $, gravity and gauge fields
+                </synonym>
+                <hypernym source="hep-th0402228_1_15">Ã¢ $ braneÃ¢ $ part</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>action</keyterm>
+                <hyponym source="0905.1238_1_120">training</hyponym>
+                <hyponym source="0905.1238_1_118">training</hyponym>
+                <synonym source="0905.4435_1_151">least</synonym>
+                <hypernym source="0905.4435_1_151">full qft</hypernym>
+                <hypernym source="0908.0467_1_22">zero mass dimension</hypernym>
+                <hyponym source="0908.3439_1_2">metric components, energy density</hyponym>
+                <hyponym source="0909.4537_1_27">gauge, higgs terms</hyponym>
+                <synonym source="0912.4604_1_42">g ^ 1, \ big r ^ 4</synonym>
+                <hypernym source="0912.4604_1_42">conformally invariant part</hypernym>
+                <synonym source="1003.1283_1_7">power counting renormalizability</synonym>
+                <hypernym source="1003.1283_1_7">hoÃ ava gravity could be extended</hypernym>
+                <synonym source="1108.1976_1_31">fermion number conservation</synonym>
+                <hypernym source="1108.1976_1_31">other requirements</hypernym>
+                <hyponym source="1206.3807_1_15">8 scalar fields, several parameters</hyponym>
+                <hypernym source="1208.4459_1_5">9</hypernym>
+                <hypernym source="1210.0540_1_38">fields</hypernym>
+                <hyponym source="1304.3344_1_30">blg</hyponym>
+                <hyponym source="1310.4877_1_33">yang-mills term, gauge-fixing term and horizon term</hyponym>
+                <hyponym source="astro-ph0601617_1_14">1, problem</hyponym>
+                <hyponym source="gr-qc0304089_1_1">4-dimensional Ã¢ $ induced gravityÃ¢ $, 5-dimensional gauss-bonnet
+                    corrections
+                </hyponym>
+                <synonym source="gr-qc0405007_1_975">holographic principle 54, study, m-theory, simple fact, angular
+                    momentum
+                </synonym>
+                <hypernym source="gr-qc0405007_1_975">recent research results</hypernym>
+                <synonym source="gr-qc0409006_1_5">value</synonym>
+                <hypernym source="gr-qc0409006_1_5">dynamics</hypernym>
+                <synonym source="gr-qc0509029_1_18">positive</synonym>
+                <hypernym source="gr-qc0509029_1_18">modified gravity</hypernym>
+                <synonym source="hep-th0104162_1_2">non-minimally coupled terms</synonym>
+                <hypernym source="hep-th0104162_1_2">curvature invariants</hypernym>
+                <synonym source="hep-th0105087_1_12">topological charge densities</synonym>
+                <hypernym source="hep-th0105087_1_12">relevant quantities</hypernym>
+                <hypernym source="hep-th0106062_1_14">effective action</hypernym>
+                <synonym source="hep-th0107141_1_21">quantum</synonym>
+                <hypernym source="hep-th0107141_1_21">however even</hypernym>
+                <synonym source="hep-th0110150_1_4">massive photons</synonym>
+                <hypernym source="hep-th0110150_1_4">new physics</hypernym>
+                <hyponym source="hep-th0111049_1_18">measure, arbitrary space-time transformation, and only afterwards
+                    one
+                </hyponym>
+                <hyponym source="hep-th0205257_1_32">cs action, omitted terms</hyponym>
+                <hypernym source="hep-th0208123_1_12">one</hypernym>
+                <synonym source="hep-th0401079_1_42">gauge invariance, current conservation, conserved charges and
+                    momentums
+                </synonym>
+                <hypernym source="hep-th0401079_1_42">field theory</hypernym>
+                <synonym source="hep-th0404178_1_59">e.g. higher co-dimension version</synonym>
+                <hypernym source="hep-th0404178_1_59">normal fields</hypernym>
+                <hyponym source="hep-th0407201_1_57">gauge</hyponym>
+                <synonym source="hep-th0408048_1_86">general relativity and supergravity, which</synonym>
+                <hypernym source="hep-th0408048_1_86">interest</hypernym>
+                <synonym source="hep-th0412186_1_60">graviton</synonym>
+                <hypernym source="hep-th0412186_1_60">fields</hypernym>
+                <hyponym source="hep-th0501107_1_78">fermionic sector, mass term</hyponym>
+                <hyponym source="hep-th0502059_1_31">types</hyponym>
+                <hyponym source="hep-th0512274_1_65">and only boundary terms</hyponym>
+                <hyponym source="hep-th0603151_1_104">faddeev-popov ghost, antighost fields</hyponym>
+                <synonym source="hep-th0603155_1_27">localization</synonym>
+                <hypernym source="hep-th0603155_1_27">geometric properties</hypernym>
+                <hypernym source="hep-th0606265_1_2">ps advocated</hypernym>
+                <hypernym source="hep-th0612291_1_2">ps advocated</hypernym>
+                <hyponym source="hep-th0701254_1_91"></hyponym>
+                <hyponym source="hep-th0702107_1_13"></hyponym>
+                <synonym source="math0306339_1_19">bilinear form</synonym>
+                <hypernym source="math0306339_1_19">certain additional structures</hypernym>
+                <hypernym source="math0612743_1_15">further data</hypernym>
+                <synonym source="math-ph0311030_1_42">lagrangian, equations, tensor, spinor, and so that</synonym>
+                <hypernym source="math-ph0311030_1_42">identical invariants</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>cosmological</keyterm>
+                <synonym source="hep-th0206128_1_22">einstein terms</synonym>
+                <hypernym source="hep-th0206128_1_22">general coordinate invariant forms</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-7</num>
+        <keywords>non-gaussianity, curvatons, density, perturbations, energy, potential</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>density perturbations</keyterm>
+                <hypernym source="0705.0164_1_203">already measured parameters</hypernym>
+                <synonym source="0911.3380_1_9">new shapes</synonym>
+                <hypernym source="0911.3380_1_9">non-trivial predictions</hypernym>
+                <hyponym source="1109.0448_1_5">kinetic conversion, due to modulated</hyponym>
+                <hypernym source="1111.1336_1_12">contributions e.g.</hypernym>
+                <hyponym source="1206.3191_1_2">isocurvature perturbations, tensor-mode, mechanism</hyponym>
+                <hyponym source="1303.0242_1_2">curvaton scenarioÃ, reheatingÃ 5</hyponym>
+                <hyponym source="1306.0609_1_7">frozen behavior, perturbations</hyponym>
+                <hyponym source="1306.0609_1_6">frozen behavior, perturbations</hyponym>
+                <hyponym source="astro-ph0510030_1_1">inflaton, curvaton, inhomogeneous reheating scenario</hyponym>
+                <hypernym source="hep-th0605189_1_7">observables</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>non-gaussianity</keyterm>
+                <synonym source="0902.2833_1_1">spectral tilt, parity violation, so onÃ 2</synonym>
+                <hypernym source="0902.2833_1_1">fluctuations</hypernym>
+                <synonym source="0903.2123_1_53">cmb, hemispherical power asymmetry</synonym>
+                <hypernym source="0903.2123_1_53">signatures</hypernym>
+                <synonym source="1206.3191_1_2">isocurvature perturbations, tensor-mode, mechanism</synonym>
+                <hypernym source="1206.3191_1_2">density perturbations</hypernym>
+                <hypernym source="1207.4187_1_1">new observables</hypernym>
+                <synonym source="1308.1104_1_18">power spectra, primordial gravitational waves, temperature and
+                    polarization
+                </synonym>
+                <hypernym source="1308.1104_1_18">cosmological variables</hypernym>
+                <synonym source="astro-ph0701399_1_7">cosmic gravitational waves</synonym>
+                <hypernym source="astro-ph0701399_1_7">cmb data</hypernym>
+                <synonym source="hep-th0702107_1_82">large tensor modes</synonym>
+                <hypernym source="hep-th0702107_1_82">rich properties</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-8</num>
+        <keywords>invariant, subspace, property, banach, spaces</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>banach spaces</keyterm>
+                <synonym source="0809.4439_1_2">tracial version</synonym>
+                <hypernym source="0809.4439_1_2">structures</hypernym>
+                <hyponym source="0910.0651_1_16">decoupling tools, powerful moment inequalities</hyponym>
+                <synonym source="1002.3978_1_4">hilbert spaces, frÃ Â© chet spaces</synonym>
+                <hypernym source="1002.3978_1_4">infinite-dimensional vector spaces</hypernym>
+                <synonym source="1003.4317_1_4">hilbert spaces, frÃ Â© chet spaces</synonym>
+                <hypernym source="1003.4317_1_4">infinite-dimensional vector spaces</hypernym>
+                <hyponym source="1202.2492_1_78">frames</hyponym>
+                <synonym source="1203.2003_1_7">number theory, measure theory, trigonometric series, summability theory,
+                    convex spaces, study, turnpike theory 26, 28, metrizable topological groups, topological spaces 31
+                </synonym>
+                <hypernym source="1203.2003_1_7">various areas</hypernym>
+                <synonym source="1204.2445_1_5">number theory, measure theory 13, trigonometric series, summability
+                    theory, convex spaces, study, turnpike theory 18, 20, metrizable topological groups, topological
+                    spaces 23
+                </synonym>
+                <hypernym source="1204.2445_1_5">various areas</hypernym>
+                <hyponym source="1308.1706_1_91">lorentz, lebesgue-riesz, orliczÃ¢ $ s</hyponym>
+                <hyponym source="1308.5454_1_148"></hyponym>
+                <hyponym source="1310.7165_1_2">certain function spaces, which</hyponym>
+                <hyponym source="1401.4095_1_28"></hyponym>
+                <hyponym source="math0506201_1_2">cotype and super-reflexivity</hyponym>
+                <hyponym source="math0604102_1_6">weakly compact operators</hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-9</num>
+        <keywords>ecosystems, power, law, distributions</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-10</num>
+        <keywords>gaussian, distribution, random, sequence, algorithm, code</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>gaussian distribution</keyterm>
+                <synonym source="1001.1593_1_12">uniform distribution, uniform distribution, probabilities</synonym>
+                <hypernym source="1001.1593_1_12">interest</hypernym>
+                <synonym source="1109.2886_1_80">part iii, covariance structure</synonym>
+                <hypernym source="1109.2886_1_80">part ii allone but</hypernym>
+                <synonym source="1212.6209_1_31">covariance</synonym>
+                <hypernym source="1212.6209_1_31">particular shape priors</hypernym>
+                <synonym source="1312.6843_1_289">cauchy</synonym>
+                <hypernym source="1312.6843_1_289">many natural distributions</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>algorithm</keyterm>
+                <hyponym source="0812.3207_1_86">euclid</hyponym>
+                <synonym source="0905.0871_1_75">direction recognition algorithm</synonym>
+                <hypernym source="0905.0871_1_75">our results</hypernym>
+                <synonym source="1003.3301_1_3">which</synonym>
+                <hypernym source="1003.3301_1_3">problems</hypernym>
+                <hypernym source="1111.5256_1_13">filling</hypernym>
+                <synonym source="1111.5885_1_6">circuit description, or network or security protocol</synonym>
+                <hypernym source="1111.5885_1_6">correctness</hypernym>
+                <hyponym source="1207.5578_1_116">change-points</hyponym>
+                <synonym source="1304.5702_1_3">xml databases</synonym>
+                <hypernym source="1304.5702_1_3">many repeated substructures</hypernym>
+                <synonym source="1312.5667_1_3">genetic algorithms, simulated annealing, differential evolution, ant and
+                    bee algorithms, bat algorithm, particle swarm optimization, harmony search, cuckoo search, 18, 6
+                </synonym>
+                <hypernym source="1312.5667_1_3">metaheuristic algorithms are very diverse</hypernym>
+                <synonym source="astro-ph0304214_1_74">latter reference</synonym>
+                <hypernym source="astro-ph0304214_1_74">several other algorithms were tried subsequently</hypernym>
+                <synonym source="hep-th0604092_1_7"></synonym>
+                <hypernym source="hep-th0604092_1_7">quiver gauge theories</hypernym>
+                <hyponym source="math0105252_1_103">we</hyponym>
+                <hypernym source="math0508351_1_5">same site</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>code</keyterm>
+                <hyponym source="1203.2279_1_2">adm mass, their conserved values</hyponym>
+                <hyponym source="cond-mat0305575_1_64">comments, blank lines</hyponym>
+                <synonym source="math0106051_1_8">lattice, lie algebra</synonym>
+                <hypernym source="math0106051_1_8">voa</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-11</num>
+        <keywords>eigenvalue</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>eigenvalue</keyterm>
+                <hypernym source="0906.4783_1_36">Ã¢ $ unwantedÃ¢ $ terms</hypernym>
+                <synonym source="1210.7736_1_16">examples</synonym>
+                <hypernym source="1210.7736_1_16">assumptions</hypernym>
+                <hypernym source="cs0701132_1_5">stability</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-12</num>
+        <keywords>construct, differential, graded, algebra</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-13</num>
+        <keywords>type, maximal, monotone</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>type</keyterm>
+                <hyponym source="0704.3800_1_44">one</hyponym>
+                <synonym source="0706.1977_1_9">distribution and amount</synonym>
+                <hypernym source="0706.1977_1_9">various model-dependent issues systematics</hypernym>
+                <hyponym source="0801.3567_1_3">large deviations, their refinements</hyponym>
+                <synonym source="0908.4413_1_36">language</synonym>
+                <hypernym source="0908.4413_1_36">standard metadata</hypernym>
+                <hyponym source="0909.1799_1_5">i, un-oriented strings type</hyponym>
+                <synonym source="0912.0854_1_36">hartleÃ¢ $</synonym>
+                <hypernym source="0912.0854_1_36">other possible mechanisms</hypernym>
+                <hypernym source="1003.1105_1_2">cosmological models</hypernym>
+                <synonym source="1301.2699_1_83">inverse linear</synonym>
+                <hypernym source="1301.2699_1_83">suitable non-linear mean function</hypernym>
+                <hypernym source="1303.5887_1_20">observer</hypernym>
+                <synonym source="1303.6931_1_31">particle spectrum</synonym>
+                <hypernym source="1303.6931_1_31">particle properties</hypernym>
+                <synonym source="1309.4921_1_8">domain and density, soil types, amount, species</synonym>
+                <hypernym source="1309.4921_1_8">parameters</hypernym>
+                <hyponym source="1312.0491_1_15">10, cubic polynomials</hyponym>
+                <synonym source="1312.5659_1_27">heterotic string theory</synonym>
+                <hyponym source="cond-mat0609431_1_51">nonequilibrium, nonlinear effects</hyponym>
+                <synonym source="gr-qc0305004_1_17">renormalization</synonym>
+                <hypernym source="gr-qc0305004_1_17">singular perturbations</hypernym>
+                <synonym source="hep-ph0204240_1_124">neutrinos</synonym>
+                <hypernym source="hep-ph0204240_1_124">fermions</hypernym>
+                <synonym source="hep-th0206044_1_92">cosmological constant</synonym>
+                <hypernym source="hep-th0206044_1_92">usually considered dark-energy models</hypernym>
+                <synonym source="hep-th0212294_1_39">i, heterotic</synonym>
+                <hypernym source="hep-th0212294_1_39">iib orientifold compactifications</hypernym>
+                <hyponym source="hep-th0301059_1_50">pole</hyponym>
+                <hyponym source="hep-th0410101_1_36">brane supersymmetry</hyponym>
+                <synonym source="hep-th0412320_1_32">basic form</synonym>
+                <hypernym source="hep-th0412320_1_32">several factors</hypernym>
+                <hyponym source="hep-th0511158_1_2">partially broken supersymmetry</hyponym>
+                <hyponym source="math0110140_1_4">original, existence, asymptotic completeness</hyponym>
+                <hyponym source="math0401039_1_220">one</hyponym>
+                <hyponym source="math0401039_1_63">one</hyponym>
+                <hyponym source="math0401039_1_219">one</hyponym>
+                <synonym source="math0506201_1_2">cotype and super-reflexivity</synonym>
+                <hypernym source="math0506201_1_2">banach spaces</hypernym>
+                <hyponym source="math0510142_1_90">one</hyponym>
+                <hyponym source="math0510440_1_32">fock space representations</hyponym>
+                <hyponym source="math0606358_1_5">growth</hyponym>
+                <hyponym source="math0606358_1_2">growth</hyponym>
+                <hyponym source="math0608592_1_28"></hyponym>
+                <hyponym source="math0609480_1_24"></hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-14</num>
+        <keywords>neumann, entropy</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>entropy</keyterm>
+                <synonym source="0712.2822_1_84">tension</synonym>
+                <hypernym source="0712.2822_1_84">other thermodynamic quantities</hypernym>
+                <synonym source="0811.3332_1_32">energy, particle number, pressure, specific heat</synonym>
+                <hypernym source="0811.3332_1_32">thermodynamical quantities</hypernym>
+                <synonym source="0901.3600_1_1">periodic point data or spectrum</synonym>
+                <hypernym source="0901.3600_1_1">simple parameter</hypernym>
+                <hypernym source="0903.2020_1_2">important functions</hypernym>
+                <synonym source="0905.0751_1_5">definition</synonym>
+                <hypernym source="0905.0751_1_5">their thermodynamic properties</hypernym>
+                <synonym source="0907.0227_1_1">information paradox</synonym>
+                <hypernym source="0907.0227_1_1">quantum gravity</hypernym>
+                <synonym source="0909.4668_1_44">variety, role and nature</synonym>
+                <hypernym source="0909.4668_1_44">thermodynamic variables</hypernym>
+                <synonym source="0910.1304_1_3">index theory and subfactors, classical dynamical systems</synonym>
+                <hypernym source="0910.1304_1_3">contexts</hypernym>
+                <hypernym source="0910.4633_1_5">thermodynamic quantities</hypernym>
+                <hypernym source="0911.0270_1_3">extensive quantities</hypernym>
+                <hypernym source="1001.0785_1_103">bekenstein-hawking formula</hypernym>
+                <synonym source="1110.6152_1_12">conjugate generalized force</synonym>
+                <hypernym source="1110.6152_1_12">system</hypernym>
+                <synonym source="1111.1023_1_2">free energy, specific heat</synonym>
+                <hypernym source="1111.1023_1_2">basic quantities</hypernym>
+                <synonym source="1111.1725_1_11">horizon area</synonym>
+                <hypernym source="1111.1725_1_11">bound</hypernym>
+                <synonym source="1111.5068_1_27">free energy</synonym>
+                <hypernym source="1111.5068_1_27">them</hypernym>
+                <hypernym source="1206.3190_1_4">black-hole properties</hypernym>
+                <synonym source="1206.4941_1_44">72, mechanical action</synonym>
+                <hypernym source="1206.4941_1_44">complexified action</hypernym>
+                <synonym source="1208.0106_1_2">temperature</synonym>
+                <hypernym source="1208.0106_1_2">quantities</hypernym>
+                <synonym source="1209.3304_1_1">classical geometry, peculiar spectrum</synonym>
+                <synonym source="1211.6911_1_6">existence</synonym>
+                <hypernym source="1211.6911_1_6">thermodynamic equilibrium</hypernym>
+                <synonym source="1301.4628_1_9">linex, stein loss functions</synonym>
+                <hypernym source="1301.4628_1_9">different loss functions</hypernym>
+                <synonym source="1302.0816_1_5">energy, dual theory</synonym>
+                <hypernym source="1302.0816_1_5">quantities</hypernym>
+                <synonym source="1302.5474_1_8">individuals, niching 19, 20</synonym>
+                <hypernym source="1302.5474_1_8">population diversity</hypernym>
+                <synonym source="1302.5474_1_5">individuals, niching 19, 20</synonym>
+                <hypernym source="1302.5474_1_5">population diversity</hypernym>
+                <synonym source="1304.4358_1_1">horizon, flatness, monopole problems, causal explanation</synonym>
+                <hypernym source="1304.4358_1_1">long-standing cosmological puzzles</hypernym>
+                <synonym source="1305.0308_1_21">particle number density, magnetization, energy density, pressures
+                </synonym>
+                <hypernym source="1305.0308_1_21">thermodynamical magnitudes</hypernym>
+                <synonym source="1305.4544_1_15">gradient magnitude, visual saliency, eye-gaze movement</synonym>
+                <hypernym source="1305.4544_1_15">energy functions</hypernym>
+                <synonym source="1307.3077_1_3">temperature, their relations</synonym>
+                <hypernym source="1307.3077_1_3">their properties</hypernym>
+                <synonym source="1308.2386_1_3">energy</synonym>
+                <hypernym source="1308.2386_1_3">its macroscopic thermodynamic properties</hypernym>
+                <synonym source="1309.2747_1_10">total energy, free energy, pressure, terms</synonym>
+                <hypernym source="1309.2747_1_10">system</hypernym>
+                <synonym source="1310.2045_1_1">fisher information, relative entropy</synonym>
+                <hypernym source="1310.2045_1_1">theoretic quantities</hypernym>
+                <synonym source="astro-ph0206287_1_14">black holes</synonym>
+                <hypernym source="astro-ph0206287_1_14">debris</hypernym>
+                <synonym source="astro-ph0206287_1_82">black holes</synonym>
+                <hypernym source="astro-ph0206287_1_82">debris</hypernym>
+                <synonym source="cond-mat0308331_1_197">energy</synonym>
+                <hypernym source="cond-mat0308331_1_197">characteristics</hypernym>
+                <synonym source="cond-mat0702070_1_11">energy, heat capacity, etc., factorized form</synonym>
+                <hypernym source="cond-mat0702070_1_11">thermodynamic quantity</hypernym>
+                <synonym source="gr-qc0101052_1_11">15 and references</synonym>
+                <hypernym source="gr-qc0101052_1_11">btz black holes</hypernym>
+                <synonym source="gr-qc0106001_1_6">black holes</synonym>
+                <hypernym source="gr-qc0106001_1_6">we know</hypernym>
+                <synonym source="gr-qc0206039_1_2">its degrees, evaporation</synonym>
+                <hypernym source="gr-qc0206039_1_2">important issues</hypernym>
+                <synonym source="gr-qc0310090_1_1">temperature</synonym>
+                <hypernym source="gr-qc0310090_1_1">thermal properties</hypernym>
+                <synonym source="gr-qc0401110_1_7">area fluctuations etc</synonym>
+                <hypernym source="gr-qc0401110_1_7">statistical calculations</hypernym>
+                <synonym source="gr-qc0405010_1_54">mean energy</synonym>
+                <hypernym source="gr-qc0405010_1_54">individual particles</hypernym>
+                <synonym source="gr-qc0405010_1_451">energy and number-density, pressure etc.</synonym>
+                <hypernym source="gr-qc0405010_1_451">relevant thermodynamic parameters</hypernym>
+                <synonym source="gr-qc9301018_1_16">heat capacity</synonym>
+                <hypernym source="gr-qc9301018_1_16">thermodynamical quantities</hypernym>
+                <synonym source="hep-ph0409123_1_4">pressure</synonym>
+                <hypernym source="hep-ph0409123_1_4">thermodynamic quantities</hypernym>
+                <hypernym source="hep-th0012020_1_47">thermodynamic properties</hypernym>
+                <synonym source="hep-th0112055_1_3">temperature</synonym>
+                <hypernym source="hep-th0112055_1_3">various thermodynamical quantities</hypernym>
+                <synonym source="hep-th0202140_1_30">we</synonym>
+                <hypernym source="hep-th0202140_1_30">black holes</hypernym>
+                <synonym source="hep-th0205317_1_10">hagedorn temperature</synonym>
+                <hypernym source="hep-th0205317_1_10">thermodynamic quantities</hypernym>
+                <synonym source="hep-th0207200_1_12">information</synonym>
+                <synonym source="hep-th0211191_1_17">temperature, angular velocity, electric charge and potential
+                </synonym>
+                <hypernym source="hep-th0211191_1_17">brane</hypernym>
+                <synonym source="hep-th0302052_1_1">3</synonym>
+                <hypernym source="hep-th0302052_1_1">macroscopic quantities</hypernym>
+                <synonym source="hep-th0302132_1_64">free energy</synonym>
+                <hypernym source="hep-th0302132_1_64">interesting features</hypernym>
+                <hypernym source="hep-th0302132_1_5">new interesting features</hypernym>
+                <synonym source="hep-th0303110_1_2">black holes</synonym>
+                <hypernym source="hep-th0303110_1_2">debris</hypernym>
+                <synonym source="hep-th0306031_1_37">ds</synonym>
+                <hypernym source="hep-th0306031_1_37">thermodynamical quantities</hypernym>
+                <synonym source="hep-th0306131_1_37">mass, temperature</synonym>
+                <hypernym source="hep-th0306131_1_37">quantities</hypernym>
+                <synonym source="hep-th0310177_1_1">ads correspondence</synonym>
+                <hypernym source="hep-th0310177_1_1">various supersymmetric nonsupersymmetric field theories</hypernym>
+                <synonym source="hep-th0501055_1_3">schwarzschild-de sitter space, there</synonym>
+                <hypernym source="hep-th0501055_1_3">asymptotic de sitter space</hypernym>
+                <hypernym source="hep-th0508100_1_39">thermodynamical quantities</hypernym>
+                <synonym source="hep-th0511225_1_26">energy, angular momentum, more general thermal nature</synonym>
+                <hypernym source="hep-th0511225_1_26">full correspondence</hypernym>
+                <synonym source="hep-th0603136_1_54">information, and entanglement</synonym>
+                <hypernym source="hep-th0603136_1_54">fields</hypernym>
+                <synonym source="hep-th0605042_1_3">temperature, angular momentum, angular velocity</synonym>
+                <hypernym source="hep-th0605042_1_3">physical quantities</hypernym>
+                <synonym source="hep-th0605052_1_71">temperature</synonym>
+                <hypernym source="hep-th0605052_1_71">gravitational physics right</hypernym>
+                <hypernym source="hep-th0702108_1_130">thermodynamic quantities</hypernym>
+                <synonym source="hep-th0702225_1_46">energy, free energy density</synonym>
+                <hypernym source="hep-th0702225_1_46">thermodynamic quantities</hypernym>
+                <synonym source="hep-th0703046_1_46">its mass, temperature, charge, electric potential</synonym>
+                <hypernym source="hep-th0703046_1_46">electrically charged black string</hypernym>
+                <synonym source="math0109156_1_1">and it</synonym>
+                <hypernym source="math0109156_1_1">questions</hypernym>
+                <hypernym source="math0407417_1_34">rough dynamical invariants</hypernym>
+                <hypernym source="math0407417_1_36">rough dynamical invariants</hypernym>
+                <synonym source="nlin0504059_1_85">ergodicity, thermodynamic limits, liapounov exponent</synonym>
+                <hypernym source="nlin0504059_1_85">physical concepts</hypernym>
+                <synonym source="q-bio0510007_1_59">mutual information</synonym>
+                <hypernym source="q-bio0510007_1_59">information-theoretic measures</hypernym>
+                <synonym source="quant-ph0412189_1_2">partition function, pressure, internal energy, virial expansion,
+                    specific heat
+                </synonym>
+                <hypernym source="quant-ph0412189_1_2">particles</hypernym>
+                <synonym source="quant-ph0412189_1_5">pressure, internal energy, such systems</synonym>
+                <hypernym source="quant-ph0412189_1_5">thermodynamic functions</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>neumann</keyterm>
+                <synonym source="0812.2047_1_36">dirichlet, laplacians, nonlocal robin-type laplacians, and laplacians
+                </synonym>
+                <synonym source="0902.2750_1_149">dirichlet even non homogeneous, robin, cauchy, other initial-boundary
+                    problem
+                </synonym>
+                <hypernym source="0902.2750_1_149">other problem</hypernym>
+                <hypernym source="1205.5624_1_49">boundary conditions</hypernym>
+                <synonym source="1308.1489_1_16">dirichlet</synonym>
+                <hypernym source="1308.1489_1_16">self-adjoint boundary conditions</hypernym>
+                <hypernym source="1401.4741_1_1">general boundary conditions</hypernym>
+                <hypernym source="1401.7066_1_169">other boundary conditions</hypernym>
+                <synonym source="hep-th0507019_1_49">robin, dirichlet</synonym>
+                <hypernym source="hep-th0507019_1_49">bc</hypernym>
+                <synonym source="math-ph0308023_1_7">quasi-periodic boundary conditions</synonym>
+                <hypernym source="math-ph0308023_1_7">other choices</hypernym>
+                <synonym source="nlin0309004_1_5">dirichlet</synonym>
+                <hypernym source="nlin0309004_1_5">arbitrary confinements</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-15</num>
+        <keywords>riemann, zeta</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>riemann</keyterm>
+                <synonym source="0812.4394_1_3">minkowski, riemann-cartan spacetimes</synonym>
+                <hypernym source="0812.4394_1_3">various spacetime geometries</hypernym>
+                <synonym source="1002.3464_1_87">lowest order ricci, higher order geometric flows</synonym>
+                <hypernym source="1002.3464_1_87">geometric quantities</hypernym>
+                <synonym source="gr-qc0401008_1_3">weyl tensors</synonym>
+                <hypernym source="gr-qc0401008_1_3">higher dimensional lorentian manifolds</hypernym>
+                <hypernym source="gr-qc0612072_1_5">tensors</hypernym>
+                <synonym source="hep-th0503142_1_4">hurwitz zeta functions, proved new series</synonym>
+                <hypernym source="hep-th0503142_1_4">mathematical series</hypernym>
+                <synonym source="math0702077_1_2">christoffel symbols</synonym>
+                <hypernym source="math0702077_1_2">metric</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-16</num>
+        <keywords>fixed, point</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-17</num>
+        <keywords>mandelbrot, dynamical, plane</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-18</num>
+        <keywords>mobius, mÃ¶bius, automorphism</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-19</num>
+        <keywords>homology, duality</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>homology</keyterm>
+                <synonym source="1003.4739_1_140">turaev-viro invariantsÃ</synonym>
+                <hypernym source="1003.4739_1_140">invariants</hypernym>
+                <synonym source="1003.4739_1_143">turaev-viro invariantsÃ</synonym>
+                <hypernym source="1003.4739_1_143">invariants</hypernym>
+                <synonym source="math0206156_1_1">turaev-viro invariants</synonym>
+                <hypernym source="math0206156_1_1">classical invariants</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>duality</keyterm>
+                <hyponym source="0706.0051_1_7">structure, expositions</hyponym>
+                <synonym source="0903.0251_1_36">maximal curvature</synonym>
+                <hypernym source="0903.0251_1_36">Ã¢ $ stringyÃ¢ $ features</hypernym>
+                <synonym source="1110.5143_1_8">positive sign, holomorphicity, symmetry, value</synonym>
+                <hypernym source="1110.5143_1_8">several conditions</hypernym>
+                <synonym source="1205.0176_1_45">s-matrix elements, lorentz invariance</synonym>
+                <hypernym source="1205.0176_1_45">on-shell observables</hypernym>
+                <hyponym source="1211.6023_1_55">seiberg-like duality, index, it</hyponym>
+                <synonym source="hep-ph0203079_1_2">nuclear democracy, veneziano models</synonym>
+                <hypernym source="hep-ph0203079_1_2">concepts</hypernym>
+                <hyponym source="hep-th0104259_1_60">we</hyponym>
+                <hyponym source="hep-th0106048_1_409">ads proposal</hyponym>
+                <hypernym source="hep-th0512151_1_1">very specific cases</hypernym>
+                <synonym source="hep-th0605267_1_23">emergent spacetime, holography, unification, presence, proper
+                    framework
+                </synonym>
+                <hypernym source="hep-th0605267_1_23">2t-physics</hypernym>
+                <synonym source="hep-th0703002_1_7">hidden symmetries, field theory</synonym>
+                <hypernym source="hep-th0703002_1_7">phenomena</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-20</num>
+        <keywords>golden, ratio, fibonacci</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>fibonacci</keyterm>
+                <synonym source="math0602672_1_4">lucas, pell numbers</synonym>
+                <hypernym source="math0602672_1_4">three-term linear recurrences</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-21</num>
+        <keywords>convex, convexity</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>convexity</keyterm>
+                <synonym source="0903.5328_1_76">square loss</synonym>
+                <hypernym source="0903.5328_1_76">certain assumptions</hypernym>
+                <synonym source="1201.1788_1_3">cash additivity, monotonicity, law invariance and time consistency
+                </synonym>
+                <synonym source="1210.5502_1_10">area, perimeter</synonym>
+                <hypernym source="1210.5502_1_10">variables</hypernym>
+                <hypernym source="1201.1788_1_3">all usual assumptions</hypernym>
+                <synonym source="1202.5853_1_4">genuine nonlinearity</synonym>
+                <hypernym source="1202.5853_1_4">flux</hypernym>
+                <synonym source="1204.1713_1_25">kind</synonym>
+                <hypernym source="1305.1592_1_92">important properties</hypernym>
+                <synonym source="1307.7168_1_1">closeness, may</synonym>
+                <hypernym source="1307.7168_1_1">correspondence</hypernym>
+                <hypernym source="1204.1713_1_25">much more general decays</hypernym>
+                <hypernym source="math0307190_1_2">additional structure</hypernym>
+                <hyponym source="math0309078_1_5">v-convexity and h-convexity, carnot groups</hyponym>
+                <synonym source="math0408267_1_12">symmetry, volume growth, smoothness, etc.</synonym>
+                <hypernym source="math0610427_1_3">others</hypernym>
+                <hypernym source="math0610710_1_80">certain restrictions</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>convex</keyterm>
+                <hyponym source="1204.6613_1_83">perpetual american</hyponym>
+                <hyponym source="1208.1125_1_11"></hyponym>
+                <synonym source="1302.3155_1_26">concave, rut, ridge, saddleÃ</synonym>
+                <hypernym source="1302.3155_1_26">basic elementary shapes</hypernym>
+                <hypernym source="1310.1286_1_49">monotone type sequences</hypernym>
+                <hyponym source="1312.7338_1_6">sense, Ã¢ $ benchmarkÃ¢ $</hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-22</num>
+        <keywords>integral, surface</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>integral</keyterm>
+                <hypernym source="0912.4344_1_10">natural cost functionals</hypernym>
+                <synonym source="1002.4135_1_195">estimates 6.5 and 6.6, xmlns `` http: '' xref</synonym>
+                <hypernym source="1002.4135_1_195">argument</hypernym>
+                <hypernym source="1212.3802_1_1">algebraic equations</hypernym>
+                <synonym source="1308.5320_1_6">upper bounds</synonym>
+                <synonym source="hep-th0102074_1_6">differential calculus</synonym>
+                <hypernym source="hep-th0102074_1_6">symmetry</hypernym>
+                <hypernym source="1308.5320_1_6">abel-goncharov interpolation polynomials</hypernym>
+                <synonym source="1311.3514_1_4">section 13.2, lipschitz-hankel integral 23</synonym>
+                <synonym source="hep-th0506211_1_86">we</synonym>
+                <hypernym source="math-ph0508055_1_75">non-local terms</hypernym>
+                <hypernym source="1311.3514_1_4">integral identities</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>surface</keyterm>
+                <hyponym source="1112.3936_1_8">its height, area and volume, 17</hyponym>
+                <synonym source="1211.1054_1_63">part, conical set</synonym>
+                <hypernym source="1211.1054_1_63">only one direction</hypernym>
+                <synonym source="gr-qc0104038_1_2">energy</synonym>
+                <hypernym source="gr-qc0104038_1_2">internal quantities</hypernym>
+                <synonym source="gr-qc0309063_1_147">water waves</synonym>
+                <hypernym source="gr-qc0309063_1_147">initial-boundary problem</hypernym>
+                <hyponym source="hep-lat0202023_1_26"></hyponym>
+                <synonym source="hep-th0307261_1_7">total vacuum energy</synonym>
+                <hypernym source="hep-th0307261_1_7">global quantities</hypernym>
+                <synonym source="math0410080_1_6">finer continuous moduli . b Ã</synonym>
+                <hypernym source="math0410080_1_6">discrete parameters</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-23</num>
+        <keywords>definition, inner, product</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>definition</keyterm>
+                <hypernym source="0808.0156_1_8">exposition</hypernym>
+                <hypernym source="0808.0156_1_7">exposition</hypernym>
+                <synonym source="0808.2269_1_2">16.3.2, 16.3.3, 16.4.2, there</synonym>
+                <hypernym source="0808.2269_1_2">chapter 16 spr98 see</hypernym>
+                <synonym source="0901.0079_1_5">, bethe-salpeter equation</synonym>
+                <hypernym source="0901.0079_1_5">problem</hypernym>
+                <synonym source="0905.0751_1_5">entropy</synonym>
+                <hypernym source="0905.0751_1_5">their thermodynamic properties</hypernym>
+                <synonym source="0905.0976_1_5">clusteringÃ 17, global measures</synonym>
+                <hypernym source="0905.0976_1_5">tags</hypernym>
+                <hypernym source="0906.1560_1_27">sum</hypernym>
+                <hypernym source="1201.0293_1_21">equivalent definitions</hypernym>
+                <synonym source="1301.4243_1_157">same arguments, possibly two</synonym>
+                <hypernym source="1301.4243_1_157">appropriate changes</hypernym>
+                <synonym source="1310.0158_1_133">paper, 25</synonym>
+                <hypernym source="1310.0158_1_133">details</hypernym>
+                <synonym source="1312.4279_1_3">bott connections, tangent metrics</synonym>
+                <hypernym source="1401.1175_1_308">ii iii</hypernym>
+                <synonym source="gr-qc0210064_1_231">structures</synonym>
+                <hypernym source="gr-qc0210064_1_231">it still faces</hypernym>
+                <synonym source="hep-ph0604069_1_6">definitions</synonym>
+                <hypernym source="hep-ph0604069_1_6">quantum field theory qft</hypernym>
+                <synonym source="hep-th0105029_1_18">classification, construction</synonym>
+                <hypernym source="hep-th0105029_1_18">several basic concepts</hypernym>
+                <synonym source="hep-th0201110_1_1">cutkowski rules</synonym>
+                <hypernym source="hep-th0201110_1_1">basic concepts</hypernym>
+                <hypernym source="hep-th0303044_1_74">additional technical choices</hypernym>
+                <synonym source="hep-th0409128_1_38">right, interpretation</synonym>
+                <hypernym source="hep-th0409128_1_38">problem</hypernym>
+                <hyponym source="math0012018_1_81">case v</hyponym>
+                <hyponym source="math0302248_1_74">sgm</hyponym>
+                <synonym source="math0311398_1_12">key examples</synonym>
+                <hypernym source="math0311398_1_12">all necessary background</hypernym>
+                <hypernym source="math0405085_1_27">our opinion</hypernym>
+                <hypernym source="math0502337_1_36">related topics</hypernym>
+                <hypernym source="math0511441_1_359">reasons</hypernym>
+                <synonym source="math0601179_1_2">5</synonym>
+                <hypernym source="math0601179_1_2">other standard references</hypernym>
+                <synonym source="math0601238_1_4">weil conjectures, Ã Â© tale cohomology</synonym>
+                <hypernym source="math0601238_1_4">preliminaries</hypernym>
+                <hypernym source="math0601681_1_42">results</hypernym>
+                <synonym source="math0603426_1_4">self-duality equations</synonym>
+                <synonym source="math0609033_1_113">our addition</synonym>
+                <hypernym source="math0609033_1_113">our definitions</hypernym>
+                <synonym source="nucl-th0011039_1_3">finite temperature</synonym>
+                <hypernym source="nucl-th0011039_1_3">essential aspects</hypernym>
+                <synonym source="nucl-th0011039_1_3">finite temperature</synonym>
+                <hypernym source="nucl-th0011039_1_3">essential aspects</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>product</keyterm>
+                <synonym source="math0110280_1_10">shape theorem</synonym>
+                <hypernym source="math0110280_1_10">results</hypernym>
+                <hypernym source="hep-th0206151_1_105">particular cases</hypernym>
+                <synonym source="cs0607039_1_227">union, difference, intersection, names</synonym>
+                <synonym source="1312.1188_1_1">process and community</synonym>
+                <hypernym source="1303.2139_1_2">kinds</hypernym>
+                <synonym source="1002.0956_1_6">uv and acausality</synonym>
+                <synonym source="0901.0242_1_217"></synonym>
+                <hypernym source="0901.0242_1_217">stem</hypernym>
+                <hypernym source="0904.0612_1_141">potentially ill-defined operations</hypernym>
+                <hyponym source="0904.2688_1_68">it</hyponym>
+                <hypernym source="1002.0956_1_6">nonlocality-related problems</hypernym>
+                <synonym source="1201.3198_1_3">sum, restriction and integration</synonym>
+                <hypernym source="1201.3198_1_3">functions</hypernym>
+                <synonym source="1201.3198_1_66">sum</synonym>
+                <hypernym source="1201.3198_1_66">operations</hypernym>
+                <synonym source="1303.2770_1_79">repeated edges ., repetition ., half edges, circle</synonym>
+                <hypernym source="1303.2770_1_79">its edges</hypernym>
+                <synonym source="1304.5149_1_125">min, max</synonym>
+                <hypernym source="1304.5149_1_125">other game operators as well</hypernym>
+                <hypernym source="1312.1188_1_1">possible perspectives</hypernym>
+                <hypernym source="cs0607039_1_227">operations mentioned below</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-24</num>
+        <keywords>arithmetic, chow, group</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>arithmetic</keyterm>
+                <hypernym source="0710.1418_1_145">Ã¢ $ elementaryÃ¢ $ functions</hypernym>
+                <hyponym source="0902.1064_1_41">multiple interpretations</hyponym>
+                <hyponym source="1003.4483_1_12">: chapter three</hyponym>
+                <synonym source="1308.4039_1_10">calabi-yau threefolds</synonym>
+                <hypernym source="1308.4039_1_10">7</hypernym>
+                <hypernym source="math0210349_1_119">properties</hypernym>
+                <synonym source="math0302196_1_13">principal, geometric mean curvature lines</synonym>
+                <hypernym source="math0302196_1_13">geometric interest</hypernym>
+                <synonym source="math0601238_1_18">point 4, topology</synonym>
+                <hypernym source="math0601238_1_18">conjectures</hypernym>
+                <hypernym source="quant-ph0201093_1_37">incomplete theories</hypernym>
+                <hypernym source="quant-ph0201093_1_9">incomplete theories</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>group</keyterm>
+                <hyponym source="1309.1738_1_27"></hyponym>
+                <synonym source="1311.2235_1_54">author</synonym>
+                <hypernym source="1311.2235_1_54">experts</hypernym>
+                <hypernym source="1401.5352_1_64">coherent states</hypernym>
+                <hyponym source="alg-geom9304003_1_3">first author, great deal, macaulay, grÃ Â¶ bnerÃ bases, which
+                </hyponym>
+                <synonym source="1109.1990_1_58">trace, theoretical guarantees</synonym>
+                <hypernym source="0903.4231_1_20">symmetries</hypernym>
+                <hyponym source="0803.3805_1_57">lerf</hyponym>
+                <hypernym source="0807.4405_1_3">issues</hypernym>
+                <synonym source="0901.0527_1_106">galaxies, filaments, etc., largest diffuse flux</synonym>
+                <hypernym source="1109.1990_1_58">prior knowledge</hypernym>
+                <hyponym source="1201.1179_1_6">affine group, euclidean groups, weyl-heisenberg groups</hyponym>
+                <hypernym source="1208.2511_1_1">lie group</hypernym>
+                <synonym source="hep-th0301158_1_12">semigroup, related topological, our constructions</synonym>
+                <hypernym source="hep-th0301158_1_12">issues</hypernym>
+                <hyponym source="hep-th0506257_1_81">present authors, type iib</hyponym>
+                <hypernym source="math0211134_1_84">Ã¢ $ worseÃ¢ $ ones</hypernym>
+                <hypernym source="math0405305_1_1">groups</hypernym>
+                <hypernym source="math0405305_1_1">groups</hypernym>
+                <synonym source="math0507612_1_99">image</synonym>
+                <hypernym source="math0507612_1_99">various other interesting objects</hypernym>
+                <hyponym source="math0511153_1_160">element</hyponym>
+                <hyponym source="math0511153_1_161"></hyponym>
+                <synonym source="math-ph0310050_1_10">tensor</synonym>
+                <hypernym source="math-ph0310050_1_10">ones</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-25</num>
+        <keywords>theorem, arithmetic, chern, number</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>number</keyterm>
+                <synonym source="0709.3420_1_39">interactions</synonym>
+                <hypernym source="0709.3420_1_39">university karate club</hypernym>
+                <synonym source="0901.1454_1_3">poincarÃ Â© invariance, local commutativity and spectrality,
+                    cpt-theorem, spin-statistics theorem
+                </synonym>
+                <hypernym source="0901.1454_1_3">general principles</hypernym>
+                <synonym source="0901.1936_1_2">erasure probabilities and transmission range</synonym>
+                <hypernym source="0901.1936_1_2">parameters</hypernym>
+                <hypernym source="0902.0367_1_58">spectrum</hypernym>
+                <synonym source="0902.3907_1_28">intensity</synonym>
+                <hypernym source="0902.3907_1_28">everything</hypernym>
+                <synonym source="0904.4331_1_87">combination</synonym>
+                <hypernym source="0904.4331_1_87">logical formulae</hypernym>
+                <hypernym source="0905.1951_1_87">model</hypernym>
+                <synonym source="0906.0783_1_55">higher number</synonym>
+                <hypernym source="0906.0783_1_55">also other corrections</hypernym>
+                <synonym source="0906.3711_1_18">validity, volume modulus, scalar spectral index</synonym>
+                <hypernym source="0906.3711_1_18">compare observable quantities estimated earlier</hypernym>
+                <synonym source="0906.3886_1_8">urns</synonym>
+                <hypernym source="0906.3886_1_8">window statistics</hypernym>
+                <synonym source="0906.3886_1_8">urns</synonym>
+                <hypernym source="0906.3886_1_8">window statistics</hypernym>
+                <synonym source="0906.4560_1_14">ip packets</synonym>
+                <hypernym source="0906.4560_1_14">different assignments are often correlated</hypernym>
+                <hypernym source="0906.5432_1_1">their numerical invariants</hypernym>
+                <hypernym source="0906.5432_1_1">their numerical invariants</hypernym>
+                <hypernym source="0906.5432_1_1">their numerical invariants</hypernym>
+                <synonym source="0906.5557_1_416">orientability, genus, degree sequence, elements</synonym>
+                <synonym source="0906.5557_1_419">orientability, genus, degree sequence, elements</synonym>
+                <synonym source="0909.0940_1_38">average number, and packing</synonym>
+                <hypernym source="0909.0940_1_38">their packing characteristics</hypernym>
+                <synonym source="0909.3384_1_82">shop demand values</synonym>
+                <hypernym source="0909.3384_1_82">bibliography</hypernym>
+                <hypernym source="0909.4767_1_2">method</hypernym>
+                <synonym source="0910.2140_1_1">city population, citations, word frequencies, computer file sizes
+                </synonym>
+                <hypernym source="0910.2140_1_1">relations</hypernym>
+                <synonym source="0910.2207_1_11">area, perimeter</synonym>
+                <hypernym source="0910.2207_1_11">facet</hypernym>
+                <synonym source="0910.2591_1_15">non-tangential accessibility</synonym>
+                <hypernym source="0910.2591_1_15">underlying domain</hypernym>
+                <synonym source="0910.5550_1_6">properties, conditions, maximum period, total number, connectivity
+                </synonym>
+                <hypernym source="0910.5550_1_6">arithmetic graph theory</hypernym>
+                <synonym source="0910.5550_1_6">properties, conditions, maximum period, total number, connectivity
+                </synonym>
+                <hypernym source="0910.5550_1_6">arithmetic graph theory</hypernym>
+                <synonym source="0911.4266_1_274">origin and significance, links, longer bibliography</synonym>
+                <hypernym source="0911.4266_1_274">time</hypernym>
+                <synonym source="0911.4823_1_2">9</synonym>
+                <hypernym source="0911.4823_1_2">its features</hypernym>
+                <synonym source="0912.0032_1_31">mass, their dispersion</synonym>
+                <hypernym source="0912.0032_1_31">importance</hypernym>
+                <synonym source="0912.2176_1_14">interval length</synonym>
+                <hypernym source="0912.2176_1_14">specific properties</hypernym>
+                <synonym source="1001.1504_1_10">image size, Ã¢ $ typicalÃ¢ $ orbit length</synonym>
+                <hypernym source="1001.1504_1_10">byÃ 2</hypernym>
+                <synonym source="1002.3411_1_49">kÃ $ hler surfaces</synonym>
+                <hypernym source="1002.3411_1_49">compact complex surfaces</hypernym>
+                <synonym source="1003.2422_1_14">initial redshift, poisson noise and velocities</synonym>
+                <hypernym source="1003.2422_1_14">numerical parameters</hypernym>
+                <hypernym source="1003.2978_1_7">three-fold or higher convolutions</hypernym>
+                <hypernym source="1003.3301_1_5">built-in restrictions</hypernym>
+                <synonym source="1108.2339_1_5">lower bound</synonym>
+                <hypernym source="1108.2339_1_5">two bounds</hypernym>
+                <synonym source="1111.0594_1_88">list header, statistics, class, level, $ whyÃ¢ $ values</synonym>
+                <hypernym source="1111.0594_1_88">attributes</hypernym>
+                <synonym source="1111.3375_1_5">magnitude</synonym>
+                <hypernym source="1111.3375_1_5">account</hypernym>
+                <synonym source="1111.4503_1_2">degree distribution, path lengths, clustering, patterns</synonym>
+                <hypernym source="1111.4503_1_2">graph</hypernym>
+                <synonym source="1201.0676_1_20">funds, dissertation production, citations</synonym>
+                <hypernym source="1201.0676_1_20">scientific growth</hypernym>
+                <synonym source="1201.0676_1_20">funds, dissertation production, citations</synonym>
+                <hypernym source="1201.0676_1_20">scientific growth</hypernym>
+                <synonym source="1201.6606_1_2">will become clear our discussion</synonym>
+                <hypernym source="1201.6606_1_2">sense</hypernym>
+                <synonym source="1202.6526_1_8">transient length, and cycle period</synonym>
+                <hypernym source="1202.6526_1_8">dynamics</hypernym>
+                <synonym source="1203.6586_1_33">face width, shaft, others</synonym>
+                <hypernym source="1203.6586_1_33">7 variables</hypernym>
+                <hypernym source="1204.0011_1_13">relevant quantities</hypernym>
+                <synonym source="1204.4399_1_13">laplace equations, darboux frames, second fundamental form and
+                    apolarity, second fundamental form
+                </synonym>
+                <hypernym source="1204.4399_1_13">basic definitions</hypernym>
+                <synonym source="1204.5880_1_1">coordinate invariance</synonym>
+                <hypernym source="1204.5880_1_1">gr</hypernym>
+                <synonym source="1205.6349_1_29">efficiency</synonym>
+                <hypernym source="1205.6349_1_29">advantages</hypernym>
+                <synonym source="1205.6559_1_37">time discrete version, voter model</synonym>
+                <hypernym source="1205.6559_1_37">various interesting processes</hypernym>
+                <synonym source="1206.4300_1_1">their positions</synonym>
+                <hypernym source="1206.4300_1_1">additional information</hypernym>
+                <hypernym source="1207.0561_1_6">network-related personal quantities</hypernym>
+                <synonym source="1207.5124_1_61">unbordered factors</synonym>
+                <hypernym source="1207.5124_1_61">also many variations</hypernym>
+                <hypernym source="1208.0700_1_64">qcd parameters</hypernym>
+                <hypernym source="1208.0700_1_64">qcd parameters</hypernym>
+                <synonym source="1208.2919_1_57">measurement</synonym>
+                <synonym source="1208.2976_1_5">diameter, cliques</synonym>
+                <hypernym source="1208.2976_1_5">random graph</hypernym>
+                <synonym source="1208.2976_1_6">clustering coefficient, average path length</synonym>
+                <hypernym source="1208.2976_1_6">standard measures</hypernym>
+                <synonym source="1209.3691_1_124">total number</synonym>
+                <hypernym source="1209.3691_1_124">other properties</hypernym>
+                <hypernym source="1211.3381_1_187">mathematical systems</hypernym>
+                <synonym source="1211.6137_1_4">matroid groups, seeÃ 5 and references</synonym>
+                <hypernym source="1211.6137_1_4">variants</hypernym>
+                <hypernym source="1212.6102_1_2">several related combinatorial problems</hypernym>
+                <synonym source="1301.1273_1_77">then Ã¢ $ aboveÃ¢ $</synonym>
+                <hypernym source="1301.1273_1_77">discrete variable</hypernym>
+                <synonym source="1302.0677_1_4">3, 6, information cascades</synonym>
+                <hypernym source="1302.0677_1_4">user</hypernym>
+                <synonym source="1302.0677_1_8">i.e., user</synonym>
+                <hypernym source="1302.0677_1_8">usersÃ¢ $ properties</hypernym>
+                <synonym source="1302.0677_1_8">i.e., user</synonym>
+                <hypernym source="1302.0677_1_8">usersÃ¢ $ properties</hypernym>
+                <synonym source="1302.5096_1_2">all constraints, their algebra, constraints</synonym>
+                <hypernym source="1302.5096_1_2">their canonical structures</hypernym>
+                <synonym source="1303.0605_1_19">and checked generated sets</synonym>
+                <synonym source="1304.0682_1_124">snr</synonym>
+                <hypernym source="1304.0682_1_124">observation model</hypernym>
+                <synonym source="1305.5227_1_17">its crossing number 2, size, become trivial when its vertices</synonym>
+                <hypernym source="1305.5227_1_17">complete geometric graphs</hypernym>
+                <synonym source="1307.2203_1_10">nodes</synonym>
+                <hypernym source="1307.2203_1_10">various indicators</hypernym>
+                <synonym source="1308.4306_1_6">details</synonym>
+                <hypernym source="1308.4306_1_6">general introduction</hypernym>
+                <synonym source="1308.5171_1_43">finland</synonym>
+                <hypernym source="1308.5171_1_43">usa europe</hypernym>
+                <synonym source="1310.0899_1_93">energy, volume, pressure</synonym>
+                <hypernym source="1310.0899_1_93">system</hypernym>
+                <hypernym source="1311.0202_1_41">other factors</hypernym>
+                <hypernym source="1311.0202_1_41">other factors</hypernym>
+                <synonym source="astro-ph0410133_1_6">beginning and end, spectral index</synonym>
+                <hypernym source="astro-ph0410133_1_6">inflation</hypernym>
+                <synonym source="cond-mat0010360_1_2">space dimensionality, range, symmetry</synonym>
+                <hypernym source="cond-mat0010360_1_2">system</hypernym>
+                <synonym source="cond-mat0203536_1_29">pressure, energy, etc.</synonym>
+                <synonym source="cond-mat0208072_1_16">size</synonym>
+                <hypernym source="cond-mat0208072_1_16">interesting deterministic integer sequences</hypernym>
+                <synonym source="cs0202027_1_6">forward error correction codes</synonym>
+                <hypernym source="cs0202027_1_6">parameters</hypernym>
+                <synonym source="cs0404002_1_75">ungripped sticks</synonym>
+                <hypernym source="cs0404002_1_75">environment</hypernym>
+                <hypernym source="cs0510011_1_75">others</hypernym>
+                <synonym source="cs0510054_1_63">amount</synonym>
+                <hypernym source="cs0510054_1_63">novelty</hypernym>
+                <synonym source="gr-qc0204010_1_34">schwarzschild case, different situation</synonym>
+                <hypernym source="gr-qc0204010_1_34">very different regime</hypernym>
+                <hypernym source="gr-qc0302117_1_25">other extensive parameters</hypernym>
+                <synonym source="gr-qc0302117_1_37">charge, angular momentum</synonym>
+                <hypernym source="gr-qc0302117_1_37">other parameters</hypernym>
+                <synonym source="gr-qc0404018_1_148">6</synonym>
+                <hypernym source="gr-qc0404018_1_148">many simpler systems</hypernym>
+                <synonym source="gr-qc0405010_1_155">can be calculated multiplying values</synonym>
+                <hypernym source="gr-qc0405010_1_155">bosons</hypernym>
+                <synonym source="gr-qc0405010_1_348">energy and entropy-densities</synonym>
+                <hypernym source="gr-qc0405010_1_348">all relevant thermodynamic parameters</hypernym>
+                <synonym source="hep-ph0510148_1_19">2 massive</synonym>
+                <hypernym source="hep-ph0510148_1_19">amplitudes</hypernym>
+                <synonym source="hep-ph0510148_1_20">2 massive</synonym>
+                <hypernym source="hep-ph0510148_1_20">amplitudes</hypernym>
+                <hypernym source="hep-th0010170_1_20">above correspondence</hypernym>
+                <synonym source="hep-th0011276_1_46">efficiency</synonym>
+                <hypernym source="hep-th0011276_1_46">dual picture</hypernym>
+                <synonym source="hep-th0106199_1_1">propagator and equations</synonym>
+                <hypernym source="hep-th0106199_1_1">invariant properties</hypernym>
+                <synonym source="hep-th0112147_1_59">quantum fluctuations</synonym>
+                <hypernym source="hep-th0112147_1_59">various other cosmological parameters</hypernym>
+                <synonym source="hep-th0205196_1_15">electrons and atoms</synonym>
+                <hypernym source="hep-th0205196_1_15">particles</hypernym>
+                <synonym source="hep-th0205253_1_2">space-time dimensionality, gauge group</synonym>
+                <hypernym source="hep-th0205253_1_2">standard model</hypernym>
+                <synonym source="hep-th0206154_1_49">original spin, hyper-kÃ $ hler spaces</synonym>
+                <hypernym source="hep-th0206154_1_49">8-dimensional special holonomy transverse spaces</hypernym>
+                <synonym source="hep-th0210082_1_2">subtraction constants</synonym>
+                <hypernym source="hep-th0210082_1_2">properties</hypernym>
+                <synonym source="hep-th0211036_1_5">propagator and equations</synonym>
+                <hypernym source="hep-th0211036_1_5">invariant properties</hypernym>
+                <hypernym source="hep-th0306068_1_12">special branch</hypernym>
+                <synonym source="hep-th0412239_1_16">flux numbers, euler characteristic</synonym>
+                <hypernym source="hep-th0412239_1_16">integer parameters</hypernym>
+                <synonym source="hep-th0503063_1_5">time</synonym>
+                <hypernym source="hep-th0503063_1_5">we are interested</hypernym>
+                <hypernym source="hep-th0504147_1_38">topological invariants</hypernym>
+                <synonym source="hep-th0511160_1_49">magnetic fluxes, winding number</synonym>
+                <hypernym source="hep-th0511160_1_49">open string sector</hypernym>
+                <hypernym source="hep-th0512122_1_108">holomorphic data</hypernym>
+                <hypernym source="hep-th0604057_1_37">slight difference</hypernym>
+                <synonym source="hep-th0606031_1_61">spectral index, cobe</synonym>
+                <hypernym source="hep-th0606031_1_61">experimental signatures</hypernym>
+                <synonym source="hep-th0606031_1_60">d7 branes</synonym>
+                <hypernym source="hep-th0606031_1_60">more possibilities previously considered</hypernym>
+                <hypernym source="hep-th0610007_1_130">world-volume gauge theory</hypernym>
+                <hypernym source="hep-th0610007_1_3">gauge theory however</hypernym>
+                <synonym source="hep-th0612112_1_4">poincarÃ Â© invariance, local commutativity and spectrality,
+                    cpt-theorem, spin-statistics theorem
+                </synonym>
+                <hypernym source="hep-th0612112_1_4">general principles</hypernym>
+                <synonym source="hep-th0702109_1_13">string coupling</synonym>
+                <hypernym source="hep-th0702109_1_13">leading order theory</hypernym>
+                <synonym source="hep-th9208081_1_22">short-distance singularities</synonym>
+                <hypernym source="hep-th9208081_1_22">other channels</hypernym>
+                <synonym source="math0012070_1_52">amenability, transitivity, volume growth, planarity, isoperimetric
+                    dimension
+                </synonym>
+                <hypernym source="math0012070_1_52">properties</hypernym>
+                <synonym source="math0102063_1_1">free brownian motion, bs98, ans00, their references</synonym>
+                <hypernym source="math0102063_1_1">freely independent increments</hypernym>
+                <synonym source="math0107149_1_30">total length, less specified length</synonym>
+                <hypernym source="math0107149_1_30">functionals</hypernym>
+                <synonym source="math0107149_1_10">sum</synonym>
+                <hypernym source="math0107149_1_10">functionals</hypernym>
+                <synonym source="math0107149_1_10">sum</synonym>
+                <hypernym source="math0107149_1_10">functionals</hypernym>
+                <synonym source="math0112208_1_1">maximum degree</synonym>
+                <hypernym source="math0112208_1_1">underlying set</hypernym>
+                <synonym source="math0309060_1_63">curvature, grades, speed limit, vehicle and driver composition
+                </synonym>
+                <hypernym source="math0309060_1_63">road location</hypernym>
+                <synonym source="math0309060_1_276">free flow speed, capacity, traffic dynamics</synonym>
+                <hypernym source="math0309060_1_276">link characteristics</hypernym>
+                <synonym source="math0405440_1_1">doubletons, etc.</synonym>
+                <hypernym source="math0405440_1_1">composition</hypernym>
+                <synonym source="math0501171_1_97">characterization</synonym>
+                <hypernym source="math0501171_1_97">open undiscovered questions</hypernym>
+                <synonym source="math0510054_1_4">itself, order</synonym>
+                <synonym source="math0512402_1_4">functions, volume, closely related number</synonym>
+                <synonym source="math0604256_1_20">tunnel number and bridge number</synonym>
+                <hypernym source="math0604256_1_20">other common invariants</hypernym>
+                <hypernym source="math0605670_1_14">mahonian permutation statistic</hypernym>
+                <synonym source="math0609184_1_1">volumes, mixed volumes</synonym>
+                <hypernym source="math0609184_1_1">valuations</hypernym>
+                <synonym source="math0609293_1_78">6, chapterÃ 2 or 16, chapterÃ 3</synonym>
+                <hypernym source="math0609293_1_78">completely simple semigroups</hypernym>
+                <synonym source="math0610237_1_2">length, subsequences</synonym>
+                <hypernym source="math0610237_1_2">motzkin permutations</hypernym>
+                <synonym source="math0612492_1_559">speed</synonym>
+                <hypernym source="math0612492_1_559">graph</hypernym>
+                <synonym source="math0612492_1_559">speed</synonym>
+                <hypernym source="math0612492_1_559">graph</hypernym>
+                <hypernym source="math-ph0107026_1_28">primitives</hypernym>
+                <hypernym source="math-ph0107026_1_28">primitives</hypernym>
+                <synonym source="math-ph0509026_1_6">constant, 8</synonym>
+                <hypernym source="math-ph0509026_1_6">6</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>arithmetic</keyterm>
+                <hypernym source="quant-ph0201093_1_37">incomplete theories</hypernym>
+                <hypernym source="quant-ph0201093_1_9">incomplete theories</hypernym>
+                <synonym source="math0601238_1_18">point 4, topology</synonym>
+                <hypernym source="math0601238_1_18">conjectures</hypernym>
+                <hypernym source="math0210349_1_119">properties</hypernym>
+                <synonym source="1308.4039_1_10">calabi-yau threefolds</synonym>
+                <hypernym source="1308.4039_1_10">7</hypernym>
+                <hyponym source="1003.4483_1_12">: chapter three</hyponym>
+                <hypernym source="0710.1418_1_145">Ã¢ $ elementaryÃ¢ $ functions</hypernym>
+                <synonym source="math0302196_1_13">principal, geometric mean curvature lines</synonym>
+                <hypernym source="math0302196_1_13">geometric interest</hypernym>
+                <hyponym source="0902.1064_1_41">multiple interpretations</hyponym>
+            </expansion>
+            <expansion>
+                <keyterm>chern</keyterm>
+                <hypernym source="1003.0044_1_20">metric noncompatible dÃ¢ $</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>theorem</keyterm>
+                <hypernym source="1003.5338_1_10">properties</hypernym>
+                <hyponym source="1204.5779_1_21">locally symmetric spaces, punctures</hyponym>
+                <synonym source="1206.0577_1_19">canonical transformations</synonym>
+                <hypernym source="1206.0577_1_19">hamiltonian description</hypernym>
+                <hyponym source="1212.2586_1_5">hypergraph-based proofs, 22, 23</hyponym>
+                <synonym source="hep-th0611313_1_96">seiberg-witten curves, nambu-goldstone theorem,
+                    non-renormalization, vacuum counting, universality, etc., non-abelian monopoles
+                </synonym>
+                <hypernym source="hep-th0611313_1_96">various knowledges</hypernym>
+                <synonym source="0903.0328_1_33">regularity lemma, rÃ Â¶ dlÃ¢ $ s</synonym>
+                <hypernym source="0903.0328_1_33">several combinatorial arguments tools</hypernym>
+                <hyponym source="0911.4838_1_3">it</hyponym>
+                <synonym source="math0012268_1_7">hahnÃ¢ $, rieszÃ¢ $</synonym>
+                <hypernym source="math0012268_1_7">linear functional analysis</hypernym>
+                <synonym source="hep-th9308074_1_1">anomalies</synonym>
+                <hypernym source="hep-th9308074_1_1">anomalies even</hypernym>
+                <hypernym source="hep-th0107152_1_83">results</hypernym>
+                <hyponym source="cs0607145_1_53">results</hyponym>
+                <synonym source="1312.6225_1_3">instance, additive classical noise, amplifier channelsÃ 6</synonym>
+                <hypernym source="1312.6225_1_3">set</hypernym>
+                <hyponym source="math-ph0103008_1_3">group cohomology, central extensions</hyponym>
+                <hypernym source="math0610018_1_7">techniques</hypernym>
+                <hypernym source="math0605138_1_116">theorems</hypernym>
+                <hypernym source="math0401169_1_160">similar theorems</hypernym>
+                <synonym source="math0406412_1_5">eakin, heinzer</synonym>
+                <hypernym source="math0406412_1_5">cancellation</hypernym>
+                <hyponym source="math0505635_1_45">local asymptotical self-similarity index</hyponym>
+                <synonym source="math0512305_1_112">varadhanÃ¢ $ s</synonym>
+                <hypernym source="math0512305_1_112">usual large deviation arguments</hypernym>
+                <synonym source="math0601501_1_55">results</synonym>
+                <hypernym source="math0211140_1_33">pseudodifferential manipulations</hypernym>
+                <synonym source="math0212178_1_16">simplicial, and zero mixed volume cases</synonym>
+                <hypernym source="math0212178_1_16">explicit formulae</hypernym>
+                <hyponym source="math0212308_1_65">algebras, little disk operad</hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-26</num>
+        <keywords>vessel</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-27</num>
+        <keywords>electron, energy, quantum, dynamics, njl</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>dynamics</keyterm>
+                <synonym source="0803.2684_1_9">multidimensional cosmology, cosmology, correspondence</synonym>
+                <hypernym source="0803.2684_1_9">bkl ideas methods</hypernym>
+                <synonym source="0806.4006_1_4">black-hole brane-worlds, gravitational collapse, stellar models,
+                    galactic dynamics, light deflection 34, solar system tests
+                </synonym>
+                <hypernym source="0806.4006_1_4">brane-world models have been discussed</hypernym>
+                <hyponym source="0812.1356_1_19"></hyponym>
+                <hyponym source="0901.3604_1_21">minimal dynamics</hyponym>
+                <synonym source="0902.2390_1_2">stellar structure, thermionic currents, 4, 9</synonym>
+                <hypernym source="0902.2390_1_2">physics astrophysics</hypernym>
+                <hyponym source="0908.1019_1_5">gravitational scattering</hyponym>
+                <hypernym source="0910.2207_1_77">physics</hypernym>
+                <synonym source="0910.2338_1_3">first stage, radiative accretion shocks, late supernovae remnants and
+                    galaxy formation
+                </synonym>
+                <hypernym source="0910.2338_1_3">observables ones</hypernym>
+                <synonym source="1108.1798_1_13">dirac-born-infeld dbi and wess-zumino wz terms</synonym>
+                <hypernym source="1108.1798_1_13">d7-brane action</hypernym>
+                <synonym source="1109.4132_1_5">quantum computational efficiency, geometric quantum discord, other
+                    measures
+                </synonym>
+                <hypernym source="1109.4132_1_5">different contexts</hypernym>
+                <synonym source="1109.4132_1_3">complete positivity, broadcasting, random quantum states, operational
+                    interpretation, connection, quantum discord, distillable entanglement
+                </synonym>
+                <hypernym source="1109.4132_1_3">different contexts</hypernym>
+                <synonym source="1109.4900_1_3">eigenvalues</synonym>
+                <hypernym source="1109.4900_1_3">many reasons</hypernym>
+                <synonym source="1112.0617_1_1">complexity</synonym>
+                <hypernym source="1112.0617_1_1">many perspectives</hypernym>
+                <synonym source="1201.2316_1_1">quantum computation and quantum information, protein dynamics, nmr,
+                    mri
+                </synonym>
+                <hypernym source="1201.2316_1_1">science applications</hypernym>
+                <hypernym source="1202.2105_1_10">other hand</hypernym>
+                <hyponym source="1202.6526_1_8">transient length, and cycle period</hyponym>
+                <synonym source="1207.0568_1_3">other ising-type lattice configurations</synonym>
+                <hypernym source="1207.0568_1_3">related models</hypernym>
+                <synonym source="1207.4106_1_1">relaxation dynamics</synonym>
+                <hypernym source="1207.4106_1_1">basic issues</hypernym>
+                <synonym source="1210.3627_1_10">cosmological constant</synonym>
+                <hypernym source="1210.3627_1_10">9</hypernym>
+                <hyponym source="1210.6253_1_2">effects, stt, thermal noise, time-scales</hyponym>
+                <synonym source="1212.3470_1_22">receptor channel kinetics</synonym>
+                <hypernym source="1212.3470_1_22">neighbours</hypernym>
+                <synonym source="1301.5529_1_1">propagation, slow oscillations, motion, continuous-limits</synonym>
+                <hypernym source="1301.5529_1_1">1</hypernym>
+                <synonym source="1304.6265_1_1">seismology 55, soft tissue acoustics</synonym>
+                <hypernym source="1304.6265_1_1">many natural industrial applications</hypernym>
+                <hyponym source="1305.7504_1_397">translations</hyponym>
+                <hyponym source="1306.0911_1_67">axion-dilaton field</hyponym>
+                <hyponym source="1306.5939_1_8">multiple frequency oscillations, limit cycles</hyponym>
+                <hyponym source="1307.8252_1_12">chemical kinetics, game theory, synchronization 25</hyponym>
+                <hyponym source="1311.0451_1_2">sensitive almost 1-1 extension, minimal subsystems</hyponym>
+                <synonym source="1401.0466_1_20">only restricted sets</synonym>
+                <hypernym source="1401.0466_1_20">ghu</hypernym>
+                <synonym source="1401.2846_1_1">transport processes, pattern formation</synonym>
+                <hypernym source="1401.2846_1_1">phenomena</hypernym>
+                <hyponym source="1401.7582_1_8">study, geometric measure theory, ergodic theory, quantization
+                    questions
+                </hyponym>
+                <synonym source="astro-ph0311495_1_26">kaos, power</synonym>
+                <hypernym source="astro-ph0311495_1_26">large 2nd generation galaxy survey</hypernym>
+                <synonym source="astro-ph0512605_1_1">evolution effects, dust absorption, gravitational lensing,
+                    dimming
+                </synonym>
+                <hypernym source="astro-ph0512605_1_1">different factors</hypernym>
+                <synonym source="astro-ph0601073_1_105">radiation</synonym>
+                <hypernym source="astro-ph0601073_1_105">gx models</hypernym>
+                <synonym source="astro-ph0601481_1_27">universe</synonym>
+                <hypernym source="astro-ph0601481_1_27">dynamics tachyonic preheating</hypernym>
+                <synonym source="cond-mat0611717_1_1">culture dissemination, spreading</synonym>
+                <hypernym source="cond-mat0611717_1_1">individuals</hypernym>
+                <synonym source="gr-qc0309049_1_41">isospin, color charge</synonym>
+                <hypernym source="gr-qc0309049_1_41">mentioned cases</hypernym>
+                <synonym source="gr-qc0311004_1_1">dirac observables, embedding, less symmetric ones, classical
+                    singularities, cosmological phenomenology
+                </synonym>
+                <hypernym source="gr-qc0311004_1_1">various non-trivial issues</hypernym>
+                <hyponym source="gr-qc0409006_1_5">value</hyponym>
+                <hypernym source="hep-ph0109258_1_2">more close study</hypernym>
+                <synonym source="hep-th0106030_1_1">low 0 +1, 1 +1 dimensions</synonym>
+                <hypernym source="hep-th0106030_1_1">stringy dynamics</hypernym>
+                <synonym source="hep-th0106243_1_3">non-perturbative effects</synonym>
+                <hypernym source="hep-th0106243_1_3">issues</hypernym>
+                <synonym source="hep-th0106282_1_2">initial configuration, visible brane</synonym>
+                <hypernym source="hep-th0106282_1_2">key issues</hypernym>
+                <synonym source="hep-th0401112_1_77">tilt, very non-trivial</synonym>
+                <hypernym source="hep-th0401112_1_77">physical observables</hypernym>
+                <hyponym source="hep-th0403181_1_37">intersection fluxbranes</hyponym>
+                <hyponym source="hep-th0404202_1_36">fuzzy ring</hyponym>
+                <synonym source="hep-th0503226_1_7">collapse</synonym>
+                <hypernym source="hep-th0503226_1_7">special cases</hypernym>
+                <hypernym source="hep-th0702155_1_12">brane-antibrane configurations</hypernym>
+                <synonym source="math0201239_1_195">point vortices, statics</synonym>
+                <hypernym source="math0201239_1_195">several systems</hypernym>
+                <synonym source="math0208117_1_1">group theory, homotopy theory and logic</synonym>
+                <hypernym source="math0208117_1_1">mathematics</hypernym>
+                <hyponym source="math0403070_1_2">sensitivity, dimensions, recurrence 8, 24, 7, 12, 16, global
+                    topological complexity indicators
+                </hyponym>
+                <synonym source="math0412355_1_2">kernels, and fixed points</synonym>
+                <hyponym source="math-ph0309034_1_27"></hyponym>
+                <synonym source="math-ph0408022_1_2">use</synonym>
+                <hypernym source="math-ph0408022_1_2">variables</hypernym>
+                <synonym source="math-ph0410006_1_33">media</synonym>
+                <hypernym source="math-ph0410006_1_33">amorphous crystalline plasticity theories</hypernym>
+                <synonym source="nlin0607009_1_7">adiabatic compression, bloch oscillations, atom lasers, enhancement
+                </synonym>
+                <hypernym source="nlin0607009_1_7">many significant applications</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>quantum</keyterm>
+                <hypernym source="1312.6252_1_1">other backgrounds</hypernym>
+                <hyponym source="1309.0400_1_16">probabilistic approach</hyponym>
+                <hypernym source="1307.5368_1_108">quantum shannon theory</hypernym>
+                <synonym source="1307.5368_1_108">classical capacity</synonym>
+                <synonym source="0910.0472_1_10">private information, other data-hiding schemes, quantum expanders,
+                    general coding protocols, other applications
+                </synonym>
+                <synonym source="0905.2326_1_2">supersymmetric extensions, divergences</synonym>
+                <hypernym source="0905.2326_1_2">general relativity</hypernym>
+                <synonym source="0907.4197_1_37">10, ad condensate</synonym>
+                <hypernym source="0907.4197_1_37"></hypernym>
+                <hypernym source="0910.0472_1_10">quantum information</hypernym>
+                <hypernym source="0910.2350_1_5">related areas</hypernym>
+                <synonym source="1003.4477_1_12">classical ones</synonym>
+                <hypernym source="1003.4477_1_12">total correlations</hypernym>
+                <synonym source="1205.0746_1_23">fractional quantum hall systems</synonym>
+                <hypernym source="1205.0746_1_23">very non-local character</hypernym>
+                <synonym source="1206.5030_1_6">classical probability theory</synonym>
+                <hypernym source="1206.5030_1_6">natural assumptions</hypernym>
+                <synonym source="1302.4625_1_27">randomized, deterministic query complexity</synonym>
+                <hypernym source="1302.4625_1_27">functions</hypernym>
+                <synonym source="1302.5669_1_3">linear programming</synonym>
+                <hypernym source="1302.5669_1_3">bounds</hypernym>
+                <hypernym source="cs0205079_1_132">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_133">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_29">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_81">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_33">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_91">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_21">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_73">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_129">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_22">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_53">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_82">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_127">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_95">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_125">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_100">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_83">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_92">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_79">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_93">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_52">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_56">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_106">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_54">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_117">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_27">cumulative logics</hypernym>
+                <hypernym source="gr-qc0104103_1_32">dissipative effects</hypernym>
+                <synonym source="hep-th0107141_1_21">action</synonym>
+                <hypernym source="hep-th0107141_1_21">however even</hypernym>
+                <hypernym source="hep-th0309162_1_6">discrete variables</hypernym>
+                <synonym source="quant-ph0404159_1_61">even entangled game, payoff matrix, its non-zero off-diagonal
+                    elements
+                </synonym>
+                <hypernym source="quant-ph0404159_1_61">games</hypernym>
+                <synonym source="quant-ph0602114_1_7">bpp, polynomial time and bqp, polynomial time, that</synonym>
+                <hypernym source="quant-ph0602114_1_7">potentially larger classes</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-28</num>
+        <keywords>quantum, field, theory</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>theory</keyterm>
+                <synonym source="0708.3938_1_1">e.g., statistics/nns</synonym>
+                <hypernym source="0708.3938_1_1">statistics</hypernym>
+                <synonym source="0710.3107_1_29">1-form</synonym>
+                <hypernym source="0710.3107_1_29">fda</hypernym>
+                <hypernym source="0711.0659_1_8">excitations</hypernym>
+                <synonym source="0802.1597_1_11">gas combustion</synonym>
+                <hypernym source="0802.1597_1_11">several physical phenomena</hypernym>
+                <synonym source="0803.1891_1_1">mathematical physics, representation theory, quadratic forms,
+                    partitions
+                </synonym>
+                <hypernym source="0803.1891_1_1">many different areas</hypernym>
+                <hyponym source="0804.3961_1_226">e.g., standard model sector</hyponym>
+                <hyponym source="0812.4239_1_3">infinite class, symplectic transformations</hyponym>
+                <synonym source="0901.4232_1_198">nonadditive at.ac.tuwien.utility theory 46, 97, 105, 81, 82</synonym>
+                <hypernym source="0901.4232_1_198">various contexts</hypernym>
+                <synonym source="0901.4721_1_94">central extensions, gerbes, lie 2-groups 2, 4, 6, 13</synonym>
+                <hypernym source="0901.4721_1_94">theory</hypernym>
+                <hyponym source="0901.4721_1_94">central extensions, gerbes, lie 2-groups 2, 4, 6, 13</hyponym>
+                <synonym source="0901.4727_1_85">inverse hyper-contractive estimates, non-linear invariance principles
+                </synonym>
+                <hypernym source="0901.4727_1_85">sophisticated mathematical tools</hypernym>
+                <hyponym source="0902.0339_1_4">fluxes</hyponym>
+                <hyponym source="0902.3106_1_6">treatment, 5, 16 and 23</hyponym>
+                <synonym source="0903.1430_1_3">statistics, probability, number theory, graph theory, combinatorics,
+                    physics, engineering, other mathematical sciences
+                </synonym>
+                <hypernym source="0903.1430_1_3">many branches</hypernym>
+                <synonym source="0903.1996_1_1">statistics, probability, number theory, graph theory, combinatorics,
+                    physics, engineering, other mathematical sciences
+                </synonym>
+                <hypernym source="0903.1996_1_1">many branches</hypernym>
+                <hyponym source="0903.2054_1_7">translation, directions transverse</hyponym>
+                <synonym source="0903.2507_1_1">parallel computing</synonym>
+                <hypernym source="0903.2507_1_1">several other areas</hypernym>
+                <synonym source="0903.2825_1_90">abstraction-refinement</synonym>
+                <hypernym source="0903.2825_1_90">pragmatic approaches</hypernym>
+                <synonym source="0903.3071_1_3">statistics, probability, number theory, graph theory, combinatorics,
+                    physics, engineering, other mathematical sciences
+                </synonym>
+                <hypernym source="0903.3071_1_3">many branches</hypernym>
+                <hyponym source="0904.0413_1_4">qcd, measure</hyponym>
+                <synonym source="0904.1104_1_2">statistics, probability, number theory, graph theory, combinatorics,
+                    physics, engineering, other mathematical sciences
+                </synonym>
+                <hypernym source="0904.1104_1_2">many branches</hypernym>
+                <hyponym source="0904.2266_1_70">which</hyponym>
+                <synonym source="0904.3055_1_10">auxiliary ones, here real</synonym>
+                <hypernym source="0904.3055_1_10">variables</hypernym>
+                <synonym source="0904.4853_1_2">4</synonym>
+                <hypernym source="0904.4853_1_2">several applications</hypernym>
+                <hyponym source="0905.1764_1_38">argument</hyponym>
+                <hyponym source="0905.2007_1_16">bartholdi, virÃ Â¡ g</hyponym>
+                <hyponym source="0906.0848_1_6"></hyponym>
+                <hypernym source="0906.2526_1_14">conformal invariance</hypernym>
+                <synonym source="0907.2107_1_8">gauge field</synonym>
+                <hypernym source="0907.2107_1_8">adjoint field</hypernym>
+                <hypernym source="0907.5458_1_2">quantum gravity</hypernym>
+                <hyponym source="0909.5440_1_4">strings</hyponym>
+                <hyponym source="0911.0386_1_57">all fields</hyponym>
+                <hyponym source="0911.2708_1_69">universal hypermultiplet, 3 vector multiplets</hyponym>
+                <hyponym source="0911.3461_1_5">first order time derivative, higher order space-derivatives</hyponym>
+                <hyponym source="0911.5400_1_5">Ã¢ $ gorce plus morceÃ¢ $ 66, therein remainder</hyponym>
+                <hypernym source="0912.1807_1_1">quantum gravity</hypernym>
+                <synonym source="1002.0260_1_15">asymptotic safety scenario</synonym>
+                <hypernym source="1002.0260_1_15">gravity</hypernym>
+                <synonym source="1003.0697_1_118">hamiltonian systems, fourier, laplace</synonym>
+                <hypernym source="1003.0697_1_118">time scales calculus</hypernym>
+                <hyponym source="1003.1283_1_84">bpsh, vector mode</hyponym>
+                <hyponym source="1003.1283_1_90">bpsh</hyponym>
+                <synonym source="1003.2338_1_1">their links</synonym>
+                <hypernym source="1003.2338_1_1">many techniques have been developed</hypernym>
+                <synonym source="1108.1355_1_2">quantum spin chains 1, bosonization 3, full counting statistics fcs 4,
+                    random-matrix theory, etc.
+                </synonym>
+                <hypernym source="1108.1355_1_2">mathematical physics</hypernym>
+                <synonym source="1108.3790_1_21">combinatorics, number theory, group theory, harmonic analysis, 207,
+                    208, 209, 210, references
+                </synonym>
+                <hypernym source="1108.3790_1_21">mathematics</hypernym>
+                <synonym source="1108.5916_1_4">electrons and quarks, quantum mechanics</synonym>
+                <hyponym source="1110.1527_1_1">theÃ law, theÃ central limit theorem, Â© vy-khintchine formula,
+                    others
+                </hyponym>
+                <hyponym source="1112.4662_1_45">gravitons</hyponym>
+                <synonym source="1202.3230_1_2">gas dynamics</synonym>
+                <hypernym source="1202.3230_1_2">physics</hypernym>
+                <hyponym source="1202.6183_1_74">massive fields</hyponym>
+                <synonym source="1203.2305_1_6">langlands-morris-siegelÃ¢ $ s theory, advanced version, etc.</synonym>
+                <hypernym source="1203.2305_1_6">trace formulas</hypernym>
+                <hyponym source="1203.4575_1_8">momentum and position, relation, which</hyponym>
+                <synonym source="1204.5464_1_3">resulting computational cost</synonym>
+                <hypernym source="1204.5464_1_3">non-perturbative methods</hypernym>
+                <synonym source="1206.3116_1_14">born and jordan</synonym>
+                <hypernym source="1206.3116_1_14">apparatus</hypernym>
+                <hypernym source="1207.2936_1_2">topics</hypernym>
+                <synonym source="1208.2943_1_141">singular perturbation theory</synonym>
+                <hypernym source="1208.2943_1_141">asymptotic methods</hypernym>
+                <synonym source="1208.4580_1_13">classical and quantum mechanics, particle physics etc</synonym>
+                <hypernym source="1208.4580_1_13">physical sciences</hypernym>
+                <hyponym source="1209.5885_1_4">pullback</hyponym>
+                <hyponym source="1209.6351_1_5">unitarity and structure, geometry</hyponym>
+                <synonym source="1210.2435_1_57">fourier series</synonym>
+                <hypernym source="1210.2435_1_57">analytic methods</hypernym>
+                <synonym source="1210.6763_1_10">renormalization group</synonym>
+                <hypernym source="1210.6763_1_10">problems</hypernym>
+                <hypernym source="1211.2864_1_1">mathematics</hypernym>
+                <synonym source="1211.2922_1_1">quantum field theory</synonym>
+                <hypernym source="1211.2922_1_1">branches</hypernym>
+                <hypernym source="1211.5233_1_1">advanced techniques</hypernym>
+                <hypernym source="1211.5233_1_1">advanced techniques</hypernym>
+                <hyponym source="1211.5963_1_2">ghost-free renormalizability, quasi-linear property</hyponym>
+                <hyponym source="1211.6665_1_5">qcd</hyponym>
+                <hypernym source="1301.0019_1_409">areas</hypernym>
+                <synonym source="1301.0456_1_133">problems, pattern recognition, medical diagnosis, game theory
+                </synonym>
+                <hypernym source="1301.0456_1_133">uncertainty</hypernym>
+                <synonym source="1301.4788_1_3">hydrology, mathematical finance chakravarti and sebastian</synonym>
+                <hypernym source="1301.4788_1_3">various fields</hypernym>
+                <synonym source="1302.4915_1_1">conservation laws</synonym>
+                <hypernym source="1302.4915_1_1">developments</hypernym>
+                <synonym source="1303.6820_1_8">graph theory, shift-register sequences</synonym>
+                <hypernym source="1303.6820_1_8">other fields</hypernym>
+                <hyponym source="1304.5957_1_71">motion, newtonian limit, generalized poisson equation</hyponym>
+                <synonym source="1305.5547_1_1">phenomenological models</synonym>
+                <hypernym source="1305.5547_1_1">higher dimensions</hypernym>
+                <synonym source="1305.6886_1_8">rough sets theory, probability theory, fuzzy sets theory, soft ideals
+                </synonym>
+                <hypernym source="1305.6886_1_8">many theories have been developed</hypernym>
+                <synonym source="1305.6886_1_8">rough sets theory, probability theory, fuzzy sets theory, soft ideals
+                </synonym>
+                <hypernym source="1305.6886_1_8">many theories have been developed</hypernym>
+                <synonym source="1306.3478_1_2">algebraic combinatorics, finite geometry, discrete mathematics, metric
+                    geometry, sequences, spherical codes
+                </synonym>
+                <hypernym source="1306.3478_1_2">mathematics</hypernym>
+                <synonym source="1307.1213_1_4">analysis</synonym>
+                <hypernym source="1307.1213_1_4">fruitful applications</hypernym>
+                <synonym source="1307.4951_1_5">16, 17, logarithmic function</synonym>
+                <hypernym source="1307.4951_1_5">last decades</hypernym>
+                <synonym source="1308.6813_1_3">euler-maclaurin summation, tauberian theorems</synonym>
+                <hypernym source="1308.6813_1_3">previously known asymptotic formulas</hypernym>
+                <hyponym source="1309.0400_1_19">particles, influence, quantum field theory</hyponym>
+                <synonym source="1309.6937_1_2">three-dimensional computer graphics and computer vision, navigation,
+                    enginery and organ, robot technology, artificial satellite attitude control
+                </synonym>
+                <hypernym source="1309.6937_1_2">mathematics</hypernym>
+                <synonym source="1310.2699_1_2">inverse problems</synonym>
+                <hypernym source="1310.2699_1_2">applications</hypernym>
+                <synonym source="1311.3179_1_4">social choice, complexity theory, random graphs</synonym>
+                <hypernym source="1311.3179_1_4">research</hypernym>
+                <synonym source="astro-ph0102294_1_3">grand unification, supersymmetry, technicolour, extra dimensions
+                </synonym>
+                <hypernym source="astro-ph0102294_1_3">standard model</hypernym>
+                <hypernym source="astro-ph0209223_1_2">other forces</hypernym>
+                <hypernym source="astro-ph0403641_1_2">other forces</hypernym>
+                <hyponym source="astro-ph0602415_1_7">d-branes, which</hyponym>
+                <hypernym source="astro-ph0608632_1_125">measurements</hypernym>
+                <synonym source="gr-qc0112038_1_2">big-bang</synonym>
+                <hypernym source="gr-qc0112038_1_2">singularity</hypernym>
+                <hyponym source="gr-qc0211098_1_10">mass, angular momentum and gauge charges, geometrical lagrangian
+                    formalism
+                </hyponym>
+                <hyponym source="gr-qc0604087_1_19">causal structure, one-way velocity, 2005a</hyponym>
+                <hyponym source="gr-qc0606098_1_6">particular general relativity, randall-sundrum, and regge-teitelboim
+                    limits
+                </hyponym>
+                <synonym source="hep-ph0103222_1_22"></synonym>
+                <hypernym source="hep-ph0103222_1_22">possible interactions</hypernym>
+                <hyponym source="hep-ph0207168_1_34">vacuum values</hyponym>
+                <hyponym source="hep-ph0302014_1_32">dilaton vevs, moduli vevs</hyponym>
+                <hypernym source="hep-ph0302208_1_16">cut-off</hypernym>
+                <hyponym source="hep-ph0309189_1_24">small non-universality, spectrum</hyponym>
+                <hypernym source="hep-ph0405280_1_8">other forces</hypernym>
+                <hyponym source="hep-ph0504225_1_18">spectrum, analogous goldstone mode</hyponym>
+                <hyponym source="hep-ph0606089_1_15">string theory, reincarnationÃ¢ $</hyponym>
+                <hyponym source="hep-th0012115_1_9">pauli-villars 18, 20, dimensional regularization</hyponym>
+                <hypernym source="hep-th0101142_1_40">later step</hypernym>
+                <synonym source="hep-th0103239_1_30">non-perturbative contributions</synonym>
+                <hypernym source="hep-th0103239_1_30">aspects remain more speculative</hypernym>
+                <synonym source="hep-th0104035_1_52">$, anomaly free incorporation</synonym>
+                <hypernym source="hep-th0104035_1_52">higher dimensions</hypernym>
+                <hyponym source="hep-th0104193_1_23">we</hyponym>
+                <hyponym source="hep-th0105167_1_89"></hyponym>
+                <hyponym source="hep-th0106002_1_79">em</hyponym>
+                <hyponym source="hep-th0106276_1_28">one, non-tachyonic string theories, which</hyponym>
+                <hyponym source="hep-th0107142_1_1">infrared ultraviolet connection, noncommutative geometry</hyponym>
+                <synonym source="hep-th0109018_1_3">open wilson lines</synonym>
+                <hypernym source="hep-th0109018_1_3">theory</hypernym>
+                <hyponym source="hep-th0109018_1_3">open wilson lines</hyponym>
+                <hyponym source="hep-th0110255_1_1">deviations</hyponym>
+                <hyponym source="hep-th0202017_1_119">12, 5d description</hyponym>
+                <hyponym source="hep-th0203046_1_4">tensor fields, dilaton, other moduli</hyponym>
+                <hypernym source="hep-th0204135_1_16">curved spacetime</hypernym>
+                <hyponym source="hep-th0204177_1_22">colour singlet scalar, parton</hyponym>
+                <hyponym source="hep-th0210218_1_5">field strength</hyponym>
+                <hyponym source="hep-th0301096_1_31">terms, topological term</hyponym>
+                <hyponym source="hep-th0301159_1_10">particles, other stable structures</hyponym>
+                <hyponym source="hep-th0301160_1_10">particles, other stable structures</hyponym>
+                <synonym source="hep-th0304041_1_27">it</synonym>
+                <hypernym source="hep-th0304041_1_27">topologically flat dimensions</hypernym>
+                <hyponym source="hep-th0305242_1_12">its supersymmetry transformation rules, we, showing they</hyponym>
+                <synonym source="hep-th0306010_1_36">operators, results</synonym>
+                <hypernym source="hep-th0306010_1_36">details</hypernym>
+                <hyponym source="hep-th0306296_1_2">infinite self-energy</hyponym>
+                <hyponym source="hep-th0307064_1_12">lattice theory, continuum perturbation theory</hyponym>
+                <hyponym source="hep-th0307106_1_9">extended superspaces</hyponym>
+                <hypernym source="hep-th0311127_1_23">trick</hypernym>
+                <hyponym source="hep-th0311202_1_3">causal non-equal time properties, conformal invariance and locality
+                    7, liouville correlation functions
+                </hyponym>
+                <hyponym source="hep-th0312313_1_24">probes</hyponym>
+                <synonym source="hep-th0401002_1_81">operators, results</synonym>
+                <hypernym source="hep-th0401002_1_81">details</hypernym>
+                <hyponym source="hep-th0401087_1_7">energy dependent speed, relativistic energy-momentum conservation
+                    laws
+                </hyponym>
+                <hyponym source="hep-th0402088_1_4">instance toroidal, four dimensions</hyponym>
+                <hyponym source="hep-th0403028_1_16">relativistic invariance, locality, existence and stability,
+                    relativity theory, quantum mechanics
+                </hyponym>
+                <hyponym source="hep-th0404102_1_42">8</hyponym>
+                <hyponym source="hep-th0404116_1_145">sectors, priori correlation</hyponym>
+                <synonym source="hep-th0406042_1_14">gravitons</synonym>
+                <hypernym source="hep-th0406042_1_14">excitations</hypernym>
+                <hyponym source="hep-th0408129_1_29">hamiltonian, momentum, canonical commutation relations</hyponym>
+                <hyponym source="hep-th0503181_1_13">yang-mills theory, other manifolds</hyponym>
+                <hyponym source="hep-th0504043_1_68">relation, fermi level curve</hyponym>
+                <hyponym source="hep-th0506174_1_2"></hyponym>
+                <hyponym source="hep-th0510144_1_30"></hyponym>
+                <hyponym source="hep-th0511002_1_14">soliton solutions</hyponym>
+                <hyponym source="hep-th0512072_1_25">images, orbifold elements</hyponym>
+                <hypernym source="hep-th0512334_1_33">whole action</hypernym>
+                <synonym source="hep-th0601019_1_1">string worldsheet physics</synonym>
+                <hypernym source="hep-th0601019_1_1">mathematical physics</hypernym>
+                <synonym source="hep-th0601019_1_1">string worldsheet physics</synonym>
+                <hypernym source="hep-th0601019_1_1">mathematical physics</hypernym>
+                <hyponym source="hep-th0603155_1_55">existence, particle spectrum, thermal states</hyponym>
+                <hyponym source="hep-th0606161_1_80">gravity</hyponym>
+                <hyponym source="hep-th0607206_1_1">vacuum energy, its dependence</hyponym>
+                <synonym source="hep-th0608203_1_43">gross-neveu model</synonym>
+                <hypernym source="hep-th0608203_1_43">standard perturbative expansion</hypernym>
+                <hyponym source="hep-th0611043_1_118">coupling constants, ds entropy, which</hyponym>
+                <hyponym source="hep-th0612051_1_111">topology, total number</hyponym>
+                <hypernym source="hep-th0702002_1_2">fundamental particle theories</hypernym>
+                <hyponym source="hep-th9112021_1_2">intrinsic, which</hyponym>
+                <hyponym source="hep-th9202022_1_325">general relativity, which</hyponym>
+                <hyponym source="hep-th9211079_1_13">modular invariance, string field theory</hyponym>
+                <hyponym source="hep-th9211093_1_1">differential calculus</hyponym>
+                <hyponym source="hep-th9212058_1_3">gauge, ghost, auxiliary fields etc.</hyponym>
+                <synonym source="math0103160_1_3">regge problem, control theory, signal processing</synonym>
+                <hypernym source="math0103160_1_3">mathematics</hypernym>
+                <synonym source="math0103160_1_3">regge problem, control theory, signal processing</synonym>
+                <hypernym source="math0103160_1_3">mathematics</hypernym>
+                <synonym source="math0107215_1_16">semiÃ¢ $, wakimoto modules</synonym>
+                <hypernym source="math0107215_1_16">extended algebraic background</hypernym>
+                <synonym source="math0302166_1_1">spline systems, gabor systems or approximation theory</synonym>
+                <hypernym source="math0302166_1_1">several areas</hypernym>
+                <hyponym source="math0304315_1_3">standard, refinement and alternation limit algebras</hyponym>
+                <hypernym source="math0401236_1_45">differential geometry</hypernym>
+                <synonym source="math0412007_1_4">meromorphic continuation, functional equations and singularities
+                </synonym>
+                <synonym source="math0501125_1_3">local and global existence, posedness, many others</synonym>
+                <hypernym source="math0501125_1_3">questions</hypernym>
+                <hyponym source="math0502426_1_4">geometric equivalence, geometric similarity, isomorphism,
+                    equivalence
+                </hyponym>
+                <hyponym source="math0507107_1_5">lack, problem</hyponym>
+                <synonym source="math0511523_1_10">conformal field theory, etc. Ã, which</synonym>
+                <hypernym source="math0511523_1_10">various physical theories</hypernym>
+                <synonym source="math0601276_1_1">operator k-theory, group representation theory, noncommutative
+                    geometry, locally compact quantum groups
+                </synonym>
+                <hypernym source="math0601276_1_1">many areas</hypernym>
+                <synonym source="math0601680_1_5">constructive function theory</synonym>
+                <hypernym source="math0601680_1_5">complex analysis</hypernym>
+                <synonym source="math0604198_1_17">index theory, knot theory, novikov conjecture</synonym>
+                <hypernym source="math0604198_1_17">mathematics</hypernym>
+                <synonym source="math0607328_1_3">boundary regularity</synonym>
+                <hypernym source="math0607328_1_3">several complex variables</hypernym>
+                <synonym source="math0610306_1_6">that</synonym>
+                <hypernym source="math0610306_1_6">high information content</hypernym>
+                <synonym source="math-ph0501064_1_169">clifford, spin-clifford bundles</synonym>
+                <hypernym source="math-ph0501064_1_169">their associated vector bundles</hypernym>
+                <synonym source="math-ph0701069_1_14">mikusiÃ skiÃ¢ $ s operational calculus</synonym>
+                <hypernym source="math-ph0701069_1_14">wright function</hypernym>
+                <hyponym source="physics0110047_1_8">locality, relativistic covariance</hyponym>
+                <synonym source="quant-ph0112158_1_1">asset pricing, financial markets</synonym>
+                <hypernym source="quant-ph0112158_1_1">mathematical finance</hypernym>
+                <synonym source="quant-ph0508059_1_11">steve, john von neumann, norbert wiener</synonym>
+                <hypernym source="quant-ph0602114_1_62">fundamental theories</hypernym>
+                <hypernym source="quant-ph0508059_1_11">classical statistical mechanics</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>field</keyterm>
+                <synonym source="quant-ph0302117_1_23">ground state</synonym>
+                <hypernym source="quant-ph0302117_1_23">observables</hypernym>
+                <hyponym source="math-ph0604059_1_7"></hyponym>
+                <hyponym source="math-ph0610036_1_18"></hyponym>
+                <hyponym source="hep-th0610199_1_56">modulus</hyponym>
+                <hyponym source="hep-th0603046_1_79"></hyponym>
+                <hyponym source="hep-th0511077_1_1">energy density</hyponym>
+                <hypernym source="hep-th0412129_1_12">lagrangian</hypernym>
+                <hyponym source="hep-th0406222_1_1">energy density</hyponym>
+                <synonym source="hep-th0407109_1_1">various reviews</synonym>
+                <hypernym source="hep-th0407109_1_1">subject has been done</hypernym>
+                <hyponym source="hep-th0311158_1_4">energy density</hyponym>
+                <hyponym source="hep-th0303049_1_69">gauge contribution</hyponym>
+                <hyponym source="hep-th0304008_1_3">energy density</hyponym>
+                <hyponym source="hep-th0301157_1_13">remarks, dijkgraaf-vafa matrix model description</hyponym>
+                <synonym source="hep-ph0506045_1_3">radiation</synonym>
+                <hyponym source="gr-qc0308058_1_46">fluid, itself, five-dimensional bulk</hyponym>
+                <hypernym source="astro-ph0201462_1_6">second order gravity</hypernym>
+                <synonym source="1307.7077_1_50">coupling, curvaton models, curvaton</synonym>
+                <hypernym source="1307.7077_1_50">special cases</hypernym>
+                <hyponym source="1303.1378_1_16">masur, s</hyponym>
+                <hyponym source="1302.2988_1_20">ergodicity, our focus, distinctions</hyponym>
+                <hyponym source="0907.3112_1_1">energy density</hyponym>
+                <synonym source="0910.0435_1_9">polynomials</synonym>
+                <hyponym source="1212.1940_1_1">voter model, galam model, social impact model, sznajd model, deffuant
+                    model, krause-hegselman model
+                </hyponym>
+                <hypernym source="1208.2132_1_3">matter entity</hypernym>
+                <hyponym source="1205.0002_1_1">energy density</hyponym>
+                <hyponym source="1108.6230_1_8">relaxation time</hyponym>
+                <hypernym source="1110.0068_1_24">arithmetic information</hypernym>
+                <synonym source="1001.0722_1_5">statistical theory, mesoscopic physics, disordered electron systems
+                </synonym>
+                <hypernym source="1001.0722_1_5">theoretical physics</hypernym>
+                <hyponym source="1001.1597_1_4">3, chapter 7 and 9, which</hyponym>
+                <synonym source="0908.3856_1_3">bin size, bandwidth, mpl</synonym>
+                <hypernym source="0908.3856_1_3">adjustable parameter</hypernym>
+                <hyponym source="0812.3593_1_41">which</hyponym>
+                <hypernym source="0904.0370_1_13">general whole supersymmetric mass matrix</hypernym>
+                <synonym source="0904.1234_1_5">community finding</synonym>
+                <hypernym source="0904.1234_1_5">techniques</hypernym>
+                <hyponym source="0905.4564_1_37">lapse</hyponym>
+                <hyponym source="0905.4564_1_51">lapse and shift, invariants</hyponym>
+                <hyponym source="0906.4411_1_42">books and papers, borel, kolmogorov, more expository writings</hyponym>
+            </expansion>
+            <expansion>
+                <keyterm>quantum</keyterm>
+                <synonym source="quant-ph0404159_1_61">even entangled game, payoff matrix, its non-zero off-diagonal
+                </synonym>
+                <synonym source="quant-ph0602114_1_7">bpp, polynomial time and bqp, polynomial time, that elements
+                </synonym>
+                <hypernym source="quant-ph0602114_1_7">potentially larger classes</hypernym>
+                <hypernym source="quant-ph0404159_1_61">games</hypernym>
+                <hypernym source="hep-th0309162_1_6">discrete variables</hypernym>
+                <synonym source="hep-th0107141_1_21">action</synonym>
+                <hypernym source="hep-th0107141_1_21">however even</hypernym>
+                <hypernym source="cs0205079_1_132">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_133">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_29">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_81">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_33">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_91">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_21">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_73">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_129">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_22">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_53">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_82">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_127">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_95">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_125">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_100">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_83">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_92">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_79">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_93">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_52">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_56">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_106">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_54">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_117">cumulative logics</hypernym>
+                <hypernym source="cs0205079_1_27">cumulative logics</hypernym>
+                <hypernym source="gr-qc0104103_1_32">dissipative effects</hypernym>
+                <hypernym source="1312.6252_1_1">other backgrounds</hypernym>
+                <hyponym source="1309.0400_1_16">probabilistic approach</hyponym>
+                <synonym source="1307.5368_1_108">classical capacity</synonym>
+                <hypernym source="1307.5368_1_108">quantum shannon theory</hypernym>
+                <synonym source="1302.5669_1_3">linear programming</synonym>
+                <hypernym source="1302.5669_1_3">bounds</hypernym>
+                <synonym source="1302.4625_1_27">randomized, deterministic query complexity</synonym>
+                <hypernym source="1302.4625_1_27">functions</hypernym>
+                <synonym source="1206.5030_1_6">classical probability theory</synonym>
+                <hypernym source="1206.5030_1_6">natural assumptions</hypernym>
+                <synonym source="1205.0746_1_23">fractional quantum hall systems</synonym>
+                <hypernym source="1205.0746_1_23">very non-local character</hypernym>
+                <synonym source="1003.4477_1_12">classical ones</synonym>
+                <hypernym source="1003.4477_1_12">total correlations</hypernym>
+                <synonym source="0905.2326_1_2">supersymmetric extensions, divergences</synonym>
+                <hypernym source="0905.2326_1_2">general relativity</hypernym>
+                <synonym source="0907.4197_1_37">10, ad condensate</synonym>
+                <hypernym source="0907.4197_1_37"></hypernym>
+                <hypernym source="0910.0472_1_10">quantum information</hypernym>
+                <hypernym source="0910.2350_1_5">related areas</hypernym>
+                <synonym source="0910.0472_1_10">private information, other data-hiding schemes, quantum expanders,
+                    general coding protocols, other applications
+                </synonym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-29</num>
+        <keywords>heat, kernel, asymptotic</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>heat</keyterm>
+                <synonym source="0911.4423_1_5">electric charge, chemical substances, system</synonym>
+                <hypernym source="0911.4423_1_5">physical quantities</hypernym>
+                <synonym source="1205.5784_1_4">poisson, schrÃ Â¶ dinger, wave</synonym>
+                <hypernym source="1205.5784_1_4">equations</hypernym>
+                <synonym source="1302.0400_1_2">electric conductivity and mass transfer</synonym>
+                <hypernym source="1302.0400_1_2">other examples</hypernym>
+                <synonym source="1304.0303_1_67">wave, gas dynamics and hydromechanics problems</synonym>
+                <hypernym source="1304.0303_1_67">processes</hypernym>
+                <synonym source="1401.2846_1_1">electric ones</synonym>
+                <hypernym source="1401.2846_1_1">two or more currents coexist</hypernym>
+                <synonym source="gr-qc0405008_1_175">newly added matter layer, interior matter</synonym>
+                <hypernym source="gr-qc0405008_1_175">interaction</hypernym>
+                <hypernym source="math0401234_1_306">anisotropic operators</hypernym>
+                <synonym source="1303.5887_1_97">energy</synonym>
+            </expansion>
+            <expansion>
+                <keyterm>kernel</keyterm>
+                <synonym source="1301.1770_1_22">index</synonym>
+                <hypernym source="1301.1770_1_22">groups</hypernym>
+                <synonym source="1305.0274_1_57">standard box-car kernel</synonym>
+                <hypernym source="1305.0274_1_57">kernel</hypernym>
+                <hyponym source="1305.0274_1_57">standard box-car kernel</hyponym>
+                <hypernym source="1308.1199_1_61">system software</hypernym>
+                <hypernym source="1308.3883_1_31">heat kernel</hypernym>
+                <hyponym source="math0609259_1_15">variations, variance and convergence</hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-30</num>
+        <keywords>complex, projective, space</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>space</keyterm>
+                <hypernym source="0708.4261_1_1">many novel properties</hypernym>
+                <hypernym source="0709.3855_1_110">object</hypernym>
+                <synonym source="0812.1012_1_2">time, network bandwidth</synonym>
+                <hypernym source="0901.0017_1_3">coordinate methods</hypernym>
+                <synonym source="0903.5150_1_32">tangent cone, etc.</synonym>
+                <hypernym source="0903.5150_1_32">alexandrov spaces</hypernym>
+                <hypernym source="0905.2313_1_63">boxes</hypernym>
+                <hyponym source="0906.4542_1_6">coincidence, topology</hyponym>
+                <synonym source="1001.0354_1_20">enhanced states, quantum evolution operators</synonym>
+                <hypernym source="1001.0354_1_20">mathematically convenient basis</hypernym>
+                <synonym source="1002.0720_1_15">phenomenological description</synonym>
+                <hypernym source="1002.0720_1_15">modern theoretical field models</hypernym>
+                <hypernym source="1002.2950_1_8">traces</hypernym>
+                <hyponym source="1003.1157_1_23">corollary 1.3, inductive trace formula</hyponym>
+                <synonym source="1208.4270_1_25">hardware, manpower</synonym>
+                <hypernym source="1304.7846_1_4">quantities</hypernym>
+                <hypernym source="1310.6539_1_114">cohomological properties easily</hypernym>
+                <hypernym source="1401.1219_1_161">additional structure</hypernym>
+                <synonym source="astro-ph0503680_1_9">whose density</synonym>
+                <hypernym source="astro-ph0503680_1_9">matter variables</hypernym>
+                <hyponym source="astro-ph0603848_1_3">its shape and size</hyponym>
+                <synonym source="gr-qc0306007_1_41">quantum mechanical realm</synonym>
+                <hypernym source="gr-qc0306007_1_41">it becomes inadequate when</hypernym>
+                <synonym source="hep-th9307024_1_9">metric</synonym>
+                <hypernym source="hep-th9307024_1_9">differential geometrical structures</hypernym>
+                <synonym source="math0011193_1_39">leaf spaces, duals, brillouin zone, noncommutative tori</synonym>
+                <hypernym source="math0011193_1_39">many others</hypernym>
+                <hyponym source="math0207047_1_56">its symplectic structure, connection, curvature, ether hamiltonian
+                </hyponym>
+                <hypernym source="math0312526_1_71">notions</hypernym>
+                <hypernym source="math0401417_1_90">notions</hypernym>
+                <synonym source="math0412128_1_3">related</synonym>
+                <hypernym source="math0412128_1_3">points</hypernym>
+                <synonym source="math0502388_1_158">hardy, bergman modules</synonym>
+                <hypernym source="math0502388_1_158">maximally symmetric essentially normal graded completion</hypernym>
+                <synonym source="math0505094_1_2">right</synonym>
+                <hypernym source="math0505094_1_2">groups</hypernym>
+                <hypernym source="math-ph0105004_1_14">wavelets</hypernym>
+                <synonym source="nucl-th0510069_1_5">momentum, time</synonym>
+                <hypernym source="nucl-th0510069_1_5">interest</hypernym>
+                <synonym source="q-bio0605020_1_18">einsteinÃ¢ $ s theory</synonym>
+                <hypernym source="q-bio0605020_1_18">other</hypernym>
+                <synonym source="quant-ph0410009_1_22">momenta and time, we</synonym>
+                <hypernym source="quant-ph0410009_1_22">classical theory</hypernym>
+                <hyponym source="quant-ph0512162_1_1">entanglement</hyponym>
+                <synonym source="gr-qc0308011_1_1">loop quantum gravity</synonym>
+                <hypernym source="gr-qc0308011_1_1">canonical methods</hypernym>
+                <hypernym source="1209.1751_1_12">characters</hypernym>
+                <hyponym source="hep-th0305125_1_60"></hyponym>
+                <hyponym source="hep-th0307075_1_22">symmetries</hyponym>
+                <synonym source="hep-th0412170_1_2">non-vanishing gluon condensation</synonym>
+                <hypernym source="hep-th0412170_1_2">realistic gauge theories</hypernym>
+                <synonym source="hep-th0110034_1_38">back-reaction, overall transverse direction</synonym>
+                <hypernym source="hep-th0110034_1_38">full solution</hypernym>
+                <hypernym source="1209.5119_1_53">symbolic spaces</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>complex</keyterm>
+                <synonym source="0812.2884_1_4">almost-complex structure</synonym>
+                <hypernym source="0812.2884_1_4">riemannian metrics</hypernym>
+                <synonym source="0902.3724_1_2">paracomplex</synonym>
+                <hypernym source="0902.3724_1_2">analogues</hypernym>
+                <synonym source="0902.3727_1_2">paracomplex</synonym>
+                <hypernym source="0902.3727_1_2">analogues</hypernym>
+                <synonym source="0902.3867_1_2">paracomplex</synonym>
+                <hypernym source="0902.3867_1_2">analogues</hypernym>
+                <synonym source="1202.3963_1_12">harmonic analysis</synonym>
+                <hypernym source="1202.3963_1_12">its applications</hypernym>
+                <synonym source="1211.2651_1_1">community detection algorithms, hierarchical landscape</synonym>
+                <hypernym source="1211.2651_1_1">new techniques</hypernym>
+                <synonym source="1303.0437_1_27">quaternionic monge-ampÃ</synonym>
+                <hypernym source="1303.0437_1_27">special cases</hypernym>
+                <hyponym source="hep-th0107076_1_10">real numbers, grassmann numbers</hyponym>
+                <synonym source="hep-th0301163_1_47">quaternionic or octonionic structure, constraint</synonym>
+                <hypernym source="hep-th0301163_1_47">extra structure</hypernym>
+                <synonym source="hep-th0612237_1_1">2</synonym>
+                <hypernym source="hep-th0612237_1_1">certain established geometrical concepts</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-31</num>
+        <keywords>graph, covering, fractional, arboricity</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>graph</keyterm>
+                <hyponym source="0904.2712_1_4">vertices, vertices</hyponym>
+                <hypernym source="1002.1422_1_114">Ã¢ $ most discreteÃ¢ $</hypernym>
+                <hyponym source="1003.3671_1_196">translations, instance, nevertheless four steps</hyponym>
+                <hyponym source="1111.4503_1_2">degree distribution, path lengths, clustering, patterns</hyponym>
+                <synonym source="1201.5472_1_13">adjacency</synonym>
+                <hypernym source="1201.5472_1_13">geometric entities</hypernym>
+                <hyponym source="1206.0367_1_1">bounds, independence, chromatic numbers</hyponym>
+                <hyponym source="1212.2917_1_30"></hyponym>
+                <hyponym source="1307.1670_1_73">small world, scale, random complex networks</hyponym>
+                <hyponym source="1309.5629_1_4">diameter, girth, connected components, clique number</hyponym>
+                <hyponym source="1312.2247_1_1">hamiltonicity, existence, trees, it</hyponym>
+                <hyponym source="1401.4580_1_8">adjacency, laplacian, laplacian, modularity, incidence and distance
+                    matrix, etc.
+                </hyponym>
+                <hyponym source="cs0608091_1_10">planarity</hyponym>
+                <synonym source="gr-qc0409006_1_4">edge lengths</synonym>
+                <hypernym source="gr-qc0409006_1_4">additional variables</hypernym>
+                <hyponym source="hep-th0409268_1_52"></hyponym>
+                <hypernym source="hep-th0608210_1_153">scalar matter</hypernym>
+                <hyponym source="math0009230_1_47">vertex, path, cycle, subset</hyponym>
+                <synonym source="math0511431_1_4">such notions, elements</synonym>
+                <hypernym source="math0511431_1_4">standard combinatorial data</hypernym>
+                <hyponym source="math0612492_1_559">speed</hyponym>
+            </expansion>
+            <expansion>
+                <keyterm>covering</keyterm>
+                <hyponym source="math0406281_1_91">suitable finite intermediate cover, quotient</hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-32</num>
+        <keywords>cauchy, schwarz</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>cauchy</keyterm>
+                <synonym source="0902.2750_1_149">neumann, dirichlet even non homogeneous, robin, other initial-boundary
+                    problem
+                </synonym>
+                <hypernym source="0902.2750_1_149">other problem</hypernym>
+                <synonym source="0911.1176_1_20">symmetric stable distributions, laplace, double exponential, student
+                    distributions, their mixtures
+                </synonym>
+                <hypernym source="0911.1176_1_20">many commonly used distributions</hypernym>
+                <synonym source="1003.0935_1_2">dirac distributions</synonym>
+                <hypernym source="1003.0935_1_2">very rare exceptions</hypernym>
+                <synonym source="1312.6843_1_289">gaussian distribution</synonym>
+                <hypernym source="1312.6843_1_289">many natural distributions</hypernym>
+                <synonym source="math-ph0211011_1_2">lÃ Â© vy, hardy, littlewood, ramanujan, pÃ Â³ lya, which
+                </synonym>
+                <hypernym source="math-ph0211011_1_2">great mathematicians</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-33</num>
+        <keywords>hoelder, hÃ¶lder</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-34</num>
+        <keywords>dominated, convergence, lebesgue</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>lebesgue</keyterm>
+                <synonym source="math0701490_1_43">her husband</synonym>
+                <hypernym source="math0701490_1_43">ecole normale</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-35</num>
+        <keywords>invertible, banach, algebra</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-36</num>
+        <keywords>spectral, radius, matrix</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>matrix</keyterm>
+                <hyponym source="0901.1796_1_6"></hyponym>
+                <hypernym source="0901.2695_1_2">high-energy physics string-theory</hypernym>
+                <synonym source="0904.2815_1_1">operator, path integral descriptions</synonym>
+                <hypernym source="0904.2815_1_1">quantum mechanics</hypernym>
+                <synonym source="0908.0787_1_33">coefficient matrix</synonym>
+                <hypernym source="0908.0787_1_33">hamiltonian</hypernym>
+                <hyponym source="0910.2849_1_24">adjacency matrix</hyponym>
+                <hyponym source="0912.4740_1_70">system</hyponym>
+                <hyponym source="1112.4735_1_10"></hyponym>
+                <hyponym source="1208.3929_1_35">determinant, rank, frobenius norm</hyponym>
+                <hypernym source="1302.2446_1_1">formulations</hypernym>
+                <synonym source="gr-qc0411129_1_85">spin-orbit and spin-spin terms</synonym>
+                <hypernym source="gr-qc0411129_1_85">alternative theories</hypernym>
+                <hyponym source="math0307305_1_6">block structure</hyponym>
+                <hyponym source="math0411153_1_1">spectrum</hyponym>
+                <hypernym source="quant-ph0206105_1_8">operators position operator spin operator</hypernym>
+                <hypernym source="hep-th0409020_1_25">data</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>spectral radius</keyterm>
+                <synonym source="1304.5232_1_44">spectral density</synonym>
+                <synonym source="0901.1918_1_4">existence</synonym>
+                <hypernym source="1304.5232_1_44">spectrum</hypernym>
+                <synonym source="math0106107_1_1">disjointness, linear rank, idempotents, nilpotents, self-adjoint
+                    elements, normal elements, commutativity, spectrum
+                </synonym>
+                <hypernym source="math0106107_1_1">properties</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-37</num>
+        <keywords>singular, value, decomposition, matrix</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>matrix</keyterm>
+                <hypernym source="0901.2695_1_2">high-energy physics string-theory</hypernym>
+                <synonym source="0904.2815_1_1">operator, path integral descriptions</synonym>
+                <hypernym source="0904.2815_1_1">quantum mechanics</hypernym>
+                <synonym source="0908.0787_1_33">coefficient matrix</synonym>
+                <hypernym source="0908.0787_1_33">hamiltonian</hypernym>
+                <hyponym source="0910.2849_1_24">adjacency matrix</hyponym>
+                <hyponym source="0912.4740_1_70">system</hyponym>
+                <hyponym source="1112.4735_1_10"></hyponym>
+                <hyponym source="1208.3929_1_35">determinant, rank, frobenius norm</hyponym>
+                <hypernym source="1302.2446_1_1">formulations</hypernym>
+                <synonym source="gr-qc0411129_1_85">spin-orbit and spin-spin terms</synonym>
+                <hypernym source="gr-qc0411129_1_85">alternative theories</hypernym>
+                <hypernym source="hep-th0409020_1_25">data</hypernym>
+                <hyponym source="math0307305_1_6">block structure</hyponym>
+                <hyponym source="math0411153_1_1">spectrum</hyponym>
+                <hypernym source="quant-ph0206105_1_8">operators position operator spin operator</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>singular value decomposition</keyterm>
+                <synonym source="0909.0844_1_69">incomplete cholesky factorizationÃ</synonym>
+                <hypernym source="0909.0844_1_69">low-rank decomposition</hypernym>
+                <synonym source="1308.2218_1_1">classification, regression, matrix factorization, neighbor search,
+                    bio-informatics, moreÃ 22, 6, 1, 3, 10, 18, 11, 24, 7, 16, 25
+                </synonym>
+                <hypernym source="1308.2218_1_1">applications</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-38</num>
+        <keywords>minkowski, inequality</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>minkowski</keyterm>
+                <synonym source="0812.4394_1_3">riemann, riemann-cartan spacetimes</synonym>
+                <hypernym source="0812.4394_1_3">various spacetime geometries</hypernym>
+                <synonym source="0905.1235_1_384">chebyshev, euclidean, mahalanobis, diff distances, neural network,
+                    random classification
+                </synonym>
+                <hypernym source="0905.1235_1_384">distance classifiers</hypernym>
+                <synonym source="0905.1235_1_387">chebyshev, euclidean, mahalanobis, diff distances, neural network,
+                    random classification
+                </synonym>
+                <hypernym source="0905.1235_1_387">distance classifiers</hypernym>
+                <hypernym source="0906.5562_1_4">highly symmetric spacetime</hypernym>
+                <synonym source="0912.0611_1_2">brst approach, ads spaces</synonym>
+                <hypernym source="0912.0611_1_2">higher spin fields</hypernym>
+                <synonym source="1003.5129_1_9">de sitter space</synonym>
+                <hypernym source="1003.5129_1_9">highly symmetric backgrounds</hypernym>
+                <synonym source="1401.7295_1_2">pogorelov, aleksandrov, cohn-vossen, blaschke, weyl, hilbert</synonym>
+                <hypernym source="1401.7295_1_2">prominent mathematicians</hypernym>
+                <synonym source="gr-qc0212023_1_37">static space-times</synonym>
+                <synonym source="gr-qc0212023_1_39">static space-times</synonym>
+                <synonym source="hep-th0107158_1_11">internal symmetry groups</synonym>
+                <hypernym source="hep-th0107158_1_11">signatures</hypernym>
+                <synonym source="hep-th0311089_1_8">there</synonym>
+                <hypernym source="hep-th0311089_1_8">curved background</hypernym>
+            </expansion>
+            <expansion>
+                <keyterm>inequality</keyterm>
+                <hyponym source="1109.5567_1_2">local fractional calculus</hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-39</num>
+        <keywords>markov, inequality</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-40</num>
+        <keywords>weak, law, large, number</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>large number</keyterm>
+                <synonym source="0711.3015_1_52">models</synonym>
+                <hypernym source="0711.3015_1_52">cases</hypernym>
+                <synonym source="1307.3701_1_8">single antenna case</synonym>
+                <hypernym source="1307.3701_1_8">limited antennas</hypernym>
+                <synonym source="hep-th0308046_1_32">23, we</synonym>
+                <hypernym source="hep-th0308046_1_32">system even</hypernym>
+                <hyponym source="hep-th0702108_1_113">where it</hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-41</num>
+        <keywords>strong, law, large, number</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>large number</keyterm>
+                <synonym source="0711.3015_1_52">models</synonym>
+                <hypernym source="0711.3015_1_52">cases</hypernym>
+                <synonym source="1307.3701_1_8">single antenna case</synonym>
+                <hypernym source="1307.3701_1_8">limited antennas</hypernym>
+                <synonym source="hep-th0308046_1_32">23, we</synonym>
+                <hypernym source="hep-th0308046_1_32">system even</hypernym>
+                <hyponym source="hep-th0702108_1_113">where it</hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-42</num>
+        <keywords>eigenvalues</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>eigenvalues</keyterm>
+                <hyponym source="0906.4353_1_101">mathematical curiosity, korostelev, yin 6</hyponym>
+                <hyponym source="0907.1402_1_3">finite multiplicity</hyponym>
+                <hyponym source="0907.3522_1_3">multiplicity</hyponym>
+                <synonym source="0911.5085_1_48">eigenfunctions, their measure</synonym>
+                <hypernym source="0911.5085_1_48">our calculation</hypernym>
+                <synonym source="1109.3851_1_8">eigenspaces, jordan canonical forms, rational canonical forms</synonym>
+                <hypernym source="1109.3851_1_8">core topics</hypernym>
+                <synonym source="1109.4900_1_3">dynamics</synonym>
+                <hypernym source="1109.4900_1_3">many reasons</hypernym>
+                <hyponym source="1109.5459_1_4">embedded, latter</hyponym>
+                <hyponym source="1109.5459_1_8">embedded, latter</hyponym>
+                <hyponym source="1109.5459_1_17">embedded ones, kkn</hyponym>
+                <synonym source="1207.5980_1_119">eigenvectors</synonym>
+                <hypernym source="1207.5980_1_119">spectral properties</hypernym>
+                <synonym source="1210.3749_1_72">use</synonym>
+                <hypernym source="1210.3749_1_72">artificial setups</hypernym>
+                <synonym source="1210.6603_1_4">zeros, non-intersecting random paths, trees</synonym>
+                <hypernym source="1210.6603_1_4">various mathematical objects</hypernym>
+                <synonym source="1212.3519_1_3">capacity and moments</synonym>
+                <hypernym source="1212.3519_1_3">various physical geometric quantities</hypernym>
+                <hypernym source="1301.2085_1_156">our spectrum</hypernym>
+                <hyponym source="1304.6601_1_4"></hyponym>
+                <hyponym source="1304.6601_1_3"></hyponym>
+                <hypernym source="1307.2090_1_19">eq.Ã 36</hypernym>
+                <hypernym source="cond-mat0203549_1_29">mutually independent variables</hypernym>
+                <synonym source="hep-ph0606089_1_89">phases</synonym>
+                <hypernym source="hep-ph0606089_1_89">neutrinos</hypernym>
+                <hyponym source="hep-th0404078_1_11"></hyponym>
+                <hyponym source="hep-th0512108_1_28">zero eigenvalues</hyponym>
+                <hyponym source="math0209001_1_40"></hyponym>
+                <hypernym source="math0310159_1_5">infinity</hypernym>
+                <hyponym source="math0510425_1_143"></hyponym>
+                <synonym source="math0604374_1_15">quantum mechanics, trees, nonintersecting paths seeÃ 10 and
+                    references
+                </synonym>
+                <hypernym source="math0604374_1_15">several fields</hypernym>
+                <hyponym source="math-ph0412025_1_10">ideas and methods</hyponym>
+                <hypernym source="quant-ph0110103_1_175">b</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-43</num>
+        <keywords>ampere, line, integral</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-44</num>
+        <keywords>diophantine, equations</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>diophantine equations</keyterm>
+                <hypernym source="math0105056_1_220">tales</hypernym>
+                <hyponym source="math0210330_1_3">above</hyponym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-45</num>
+        <keywords>fibonacci</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>fibonacci</keyterm>
+                <synonym source="math0602672_1_4">lucas, pell numbers</synonym>
+                <hypernym source="math0602672_1_4">three-term linear recurrences</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-46</num>
+        <keywords>graph, chromatic, polynomials</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>graph</keyterm>
+                <hyponym source="0904.2712_1_4">vertices, vertices</hyponym>
+                <hypernym source="1002.1422_1_114">Ã¢ $ most discreteÃ¢ $</hypernym>
+                <hyponym source="1003.3671_1_196">translations, instance, nevertheless four steps</hyponym>
+                <hyponym source="1111.4503_1_2">degree distribution, path lengths, clustering, patterns</hyponym>
+                <synonym source="1201.5472_1_13">adjacency</synonym>
+                <hypernym source="1201.5472_1_13">geometric entities</hypernym>
+                <hyponym source="1206.0367_1_1">bounds, independence, chromatic numbers</hyponym>
+                <hyponym source="1212.2917_1_30"></hyponym>
+                <hyponym source="1307.1670_1_73">small world, scale, random complex networks</hyponym>
+                <hyponym source="1309.5629_1_4">diameter, girth, connected components, clique number</hyponym>
+                <hyponym source="1312.2247_1_1">hamiltonicity, existence, trees, it</hyponym>
+                <hyponym source="1401.4580_1_8">adjacency, laplacian, laplacian, modularity, incidence and distance
+                    matrix, etc.
+                </hyponym>
+                <hyponym source="cs0608091_1_10">planarity</hyponym>
+                <synonym source="gr-qc0409006_1_4">edge lengths</synonym>
+                <hypernym source="gr-qc0409006_1_4">additional variables</hypernym>
+                <hyponym source="hep-th0409268_1_52"></hyponym>
+                <hypernym source="hep-th0608210_1_153">scalar matter</hypernym>
+                <hyponym source="math0009230_1_47">vertex, path, cycle, subset</hyponym>
+                <synonym source="math0511431_1_4">such notions, elements</synonym>
+                <hypernym source="math0511431_1_4">standard combinatorial data</hypernym>
+                <hyponym source="math0612492_1_559">speed</hyponym>
+            </expansion>
+            <expansion>
+                <keyterm>chromatic polynomials</keyterm>
+                <hypernym source="1001.4216_1_4">functions</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-47</num>
+        <keywords>recurrence, relation, pell, number</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-48</num>
+        <keywords>pole, placement, state, feedback, eigenstructure, assigment</keywords>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-49</num>
+        <keywords>gauss, sums, finite, sums</keywords>
+        <expansions>
+            <expansion>
+                <keyterm>gauss sums</keyterm>
+                <synonym source="cs0703129_1_1">famous shorÃ¢ $ s algorithm, approximations, zeta functions</synonym>
+                <hypernym source="cs0703129_1_1">mathematical scientists</hypernym>
+                <synonym source="math-ph0207011_1_6">quadratic residues, klein 1926</synonym>
+                <hypernym source="math-ph0207011_1_6">number theory</hypernym>
+            </expansion>
+        </expansions>
+    </topic>
+    <topic>
+        <num>NTCIR11-Math-50</num>
+        <keywords>acyclic, index, acyclic, edge, coloring, graph</keywords>
+    </topic>
+</topic_expansions>

@@ -1,0 +1,45 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <title>${TITLE}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div class="container">
+    <h1>${TITLE}</h1>
+</div>
+<div class="container">
+    <h2>Query</h2>
+
+    <div class="well">${QUERY}</div>
+</div>
+<div class="container" style="width:auto">
+    <h2>Results</h2>
+
+    <div class="row">
+        <div class="col-md-3">
+            <h3>${TR1}</h3>
+            ${R1}
+        </div>
+        <div class="col-md-3">
+            <h3>${TR2}</h3>
+            ${R2}
+        </div>
+        <div class="col-md-3">
+            <h3>${TR3}</h3>
+            ${R3}
+        </div>
+        <div class="col-md-3">
+            <h3>${TR4}</h3>
+            ${R4}
+        </div>
+    </div>
+</div>
+</body>
+</html>
